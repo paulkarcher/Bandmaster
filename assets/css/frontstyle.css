@@ -1,0 +1,62 @@
+/*
+  frontstyle.css
+
+  This file is used to style the front page of the
+  website and all the create account/login pages.
+*/
+
+body {
+  background-color: white;
+  line-height: 1em;
+  color: white;
+}
+
+input {
+  color: black;
+}
+
+h1 {
+  
+  text-align: center;
+}
+
+h2 {
+  
+  text-align: center;
+}
+@media screen and (max-width: 768px) {
+    h1{
+        font-size: 300%;
+    }
+}
+
+p {
+  font-size: large;
+}
+
+a {
+  color: blue;
+}
+
+.instruments {
+  border-radius: 10px;
+}
+
+li {
+  list-style: none;
+  margin-left: -40px;
+}
+
+#main {
+  margin-top: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+  background-color: #668db1;
+  border-radius: 20px;
+}
+
+
+.submit {
+  color: black;
+  margin-left: 32px;
+}

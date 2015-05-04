@@ -1,0 +1,28 @@
+/*
+      Bandmaster
+      validation.css
+      authors: David Lordan, Paul Karcher, Dean Marsinelli, the fullcalendar team
+      last updated: 5/1/2015
+
+      Styling settings for the "Add Event" form to make it more obvious to
+      user's when something is wrong with input or when something
+      is not allowed to be selected.
+*/
+
+/*
+  Make any of the dates that are not clickable(any day before the current day)
+   on the drop down calendar from date-picker a bit more faded out shade of grey.
+  This makes it a bit more obvious to user's that they cannot be selected.
+  */
+.old .disabled .day {
+  color: #E2E2E2;
+}
+
+/* 
+  Change validation error messages in the form for adding events appear
+  as red to make it more clear to the user that there was an issue with
+  their input.
+ */
+[id^=error] {
+  color: red;
+}

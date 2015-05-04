@@ -1,0 +1,511 @@
+/*
+  style.css
+
+  This file is the main file used to style
+  the users public band page.
+*/
+
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:600);
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(http://fonts.googleapis.com/css?family=Francois+One);
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+body {
+    font-family: 'Fancois One', sans-serif;
+    font-size: 1.1em;
+    background-color: #2E2E2E;
+    height: 100%
+}
+#top {
+    background: black;
+    position: absolute;
+    width: 100%;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: 1px;
+}
+#beta {
+    padding-top: 5px;
+    padding-left: 10px;
+    font-size: small;
+    font-weight: bold;
+    color: white;
+}
+
+#beta a{
+    color: #66FFFF;
+}
+#logout {
+    float: right;
+    padding-right: 20px;
+}
+button {
+    border-style: none;
+}
+.ui-widget-overlay {
+    background: #000000;
+}
+/*
+  band name title of the page
+*/
+
+#header {
+    text-align: center;
+    margin-top: 50px;
+}
+#bandname {
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+    font-family: 'Fancois One', sans-serif;
+    /*background-color: #EEEEEE;
+    border-style: solid;
+    border-color: black;
+    border-radius: 15px;
+    padding: 10px;*/
+    text-shadow:
+    -1px -1px 5px #222,
+    1px -1px 5px #222,
+    -1px 1px 5px #222,
+    1px 1px 5px #222;
+}
+.public-header {
+    cursor: default !important;
+}
+#changeNameBox {
+    margin-top: 63px;
+}
+#changeNameBox input {
+    font-size: 1.4em;
+}
+#changeNameBox button {
+    background-color: white;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #AAAAAA;
+    font-size: 1.2em;
+}
+#changeNameBox button:hover {
+    background-color: #DDDDDD;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #555555;
+}
+#nameInput {
+    width: 15%;
+    margin-bottom: 5px;
+}
+.container {
+    margin: 0 auto;
+}
+.uploadSongNameL:focus {
+    outline: 0;
+}
+
+/*
+  global settings for tables on the page
+*/
+
+table {
+    margin: auto;
+    width: 100%;
+    font-size: 1.3em;
+}
+th {
+    text-align: center;
+}
+td {
+    padding: 5px;
+}
+/*--------------------------
+  Left Pane song list styles
+---------------------------*/
+.public-setlist {
+    margin-top: 26px;
+}
+.nav-tabs {
+    border-bottom: 0px;
+}
+.leftTable {
+    border-style: solid;
+    border-color: #444444;
+    border-radius: 10px;
+    border-collapse: separate;
+    margin-bottom: 10px;
+}
+.leftTable th {
+    background-color: #444444;
+    color: white;
+}
+.leftTable td {
+    background-color: white;
+}
+.numHeader {
+    width: 10px;
+}
+.leftTable button {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #AAAAAA;
+    background-color: #EEEEEE;
+    width: 100%;
+}
+.activeSongClass button#songname {
+    border-color: #4C83EF !important;
+    background-color: #95BCF2 !important;
+}
+/*------------------
+  jQuery Tabs styles
+-------------------*/
+
+.nav-tabs>li>a {
+    border: 1px solid #DDD;
+    border-radius: 4px 4px 0 0;
+    border-bottom-color: transparent;
+}
+.nav-tabs>li>a:hover {
+    border: 1px solid #999;
+    border-radius: 4px 4px 0 0;
+    border-bottom-color: transparent;
+    background-color: #EEE;
+}
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
+.nav-tabs>li.active>a:focus {
+    border: 1px solid #666;
+    border-bottom-color: #444444;
+    background-color: #DDD;
+    color: #333;
+}
+/*----------------------------
+  Center Pane audio controller
+-----------------------------*/
+
+#controls {
+    background-color: #EEEEEE;
+    padding-top: 10px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-top: 26px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+#controls input {
+    border-style: solid;
+    border-color: white;
+    border-radius: 100px;
+    border-width: 0px;
+    background-color: black;
+    margin-top: 5px;
+    width: 10%;
+    max-width: 100px;
+    min-width: 45px;
+}
+#nowPlaying {
+    text-align: center;
+    color: black;
+    font-size: 1.2em;
+    margin: auto;
+    width: 90%;
+}
+#time {
+    color: black;
+    margin: 10px;
+}
+#timeSpent {
+    float: left;
+    text-align: left;
+}
+#timeRemaining {
+    float: right;
+    text-align: right;
+}
+#progress {
+    margin: 0px 40px 10px 40px;
+    border: 3px solid;
+    border-color: #666666;
+    border-radius: 13px;
+    cursor: pointer;
+    background-color: black;
+    height: 21px;
+}
+#bar {
+    margin-right: -12px;
+    height: 15px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 0;
+    border-width: 2px;
+    border-color: red;
+    background-color: #33ffcc;
+    max-width: 99%;
+    display: inline-block;
+    float: left;
+    margin-right: -5px;
+}
+#bar,
+#circle2 {
+    background: #1e5799;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #1e5799), color-stop(50%, #2989d8), color-stop(51%, #207cca), color-stop(100%, #7db9e8));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
+    /* W3C */
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#1e5799', endColorstr='#7db9e8', GradientType=0);
+    /* IE6-9 */
+}
+#circle1 {
+    background: rgb(242, 246, 248);
+    /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 50%, rgba(181, 198, 208, 1) 51%, rgba(224, 239, 249, 1) 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(242, 246, 248, 1)), color-stop(50%, rgba(216, 225, 231, 1)), color-stop(51%, rgba(181, 198, 208, 1)), color-stop(100%, rgba(224, 239, 249, 1)));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 50%, rgba(181, 198, 208, 1) 51%, rgba(224, 239, 249, 1) 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 50%, rgba(181, 198, 208, 1) 51%, rgba(224, 239, 249, 1) 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 50%, rgba(181, 198, 208, 1) 51%, rgba(224, 239, 249, 1) 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, rgba(242, 246, 248, 1) 0%, rgba(216, 225, 231, 1) 50%, rgba(181, 198, 208, 1) 51%, rgba(224, 239, 249, 1) 100%);
+    /* W3C */
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#f2f6f8', endColorstr='#e0eff9', GradientType=0);
+    /* IE6-9 */
+}
+#progress {
+    background: rgb(149, 149, 149);
+    /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(149, 149, 149, 1) 0%, rgba(13, 13, 13, 1) 46%, rgba(1, 1, 1, 1) 50%, rgba(10, 10, 10, 1) 53%, rgba(78, 78, 78, 1) 76%, rgba(56, 56, 56, 1) 87%, rgba(27, 27, 27, 1) 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(149, 149, 149, 1)), color-stop(46%, rgba(13, 13, 13, 1)), color-stop(50%, rgba(1, 1, 1, 1)), color-stop(53%, rgba(10, 10, 10, 1)), color-stop(76%, rgba(78, 78, 78, 1)), color-stop(87%, rgba(56, 56, 56, 1)), color-stop(100%, rgba(27, 27, 27, 1)));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgba(149, 149, 149, 1) 0%, rgba(13, 13, 13, 1) 46%, rgba(1, 1, 1, 1) 50%, rgba(10, 10, 10, 1) 53%, rgba(78, 78, 78, 1) 76%, rgba(56, 56, 56, 1) 87%, rgba(27, 27, 27, 1) 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgba(149, 149, 149, 1) 0%, rgba(13, 13, 13, 1) 46%, rgba(1, 1, 1, 1) 50%, rgba(10, 10, 10, 1) 53%, rgba(78, 78, 78, 1) 76%, rgba(56, 56, 56, 1) 87%, rgba(27, 27, 27, 1) 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgba(149, 149, 149, 1) 0%, rgba(13, 13, 13, 1) 46%, rgba(1, 1, 1, 1) 50%, rgba(10, 10, 10, 1) 53%, rgba(78, 78, 78, 1) 76%, rgba(56, 56, 56, 1) 87%, rgba(27, 27, 27, 1) 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, rgba(149, 149, 149, 1) 0%, rgba(13, 13, 13, 1) 46%, rgba(1, 1, 1, 1) 50%, rgba(10, 10, 10, 1) 53%, rgba(78, 78, 78, 1) 76%, rgba(56, 56, 56, 1) 87%, rgba(27, 27, 27, 1) 100%);
+    /* W3C */
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#959595', endColorstr='#1b1b1b', GradientType=0);
+    /* IE6-9 */
+}
+#circle1 {
+    float: left;
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+#circle2 {
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    display: inline-block;
+    float: left;
+    margin-right: -10px;
+}
+#songInfo {
+    background-color: #EEEEEE;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+#infoTable {
+    width: 80%;
+}
+/*--------------------
+  Right Pane task list
+---------------------*/
+#calendar {
+    margin-top: 27px;
+    margin-bottom: 10px;
+}
+.error {
+    font-size: x-small;
+}
+.fc-content:hover {
+    cursor: pointer;
+}
+.eventButton {
+    border-style: solid;
+    border-color: #333333;
+    background-color: #EEEEEE;
+    font-size: small;
+    font-weight: bold;
+}
+.eventButton:hover {
+    background-color: #AAAAAA;
+}
+div#toDoList {
+    font-family: 'Shadows Into Light', sans-serif;
+    background-image: url("../img/notepad.png");
+    font-size: 1.5em;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    padding-bottom: 40px;
+}
+#taskTable td {
+    padding-left: 30px;
+}
+#taskTable th {
+    padding-top: 20px;
+    color: black;
+}
+#toDoList button {
+    background-color: #FBF587;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #B3CFD3;
+}
+.activeTaskClass button {
+    border-color: #4C83EF !important;
+    background-color: #95BCF2 !important;
+}
+#newTaskButton {
+    margin-top: 50px;
+    margin-left: 35px;
+}
+#newTaskButton button {
+    font-size: 1.2em;
+}
+#newTaskButton button:hover {
+    border-color: #4C83EF;
+    background-color: #95BCF2;
+}
+#newTaskBox {
+    margin-top: 30px;
+    padding-left: 30px;
+}
+#newTaskBox button {
+    font-size: 1.2em;
+}
+#newTaskBox button:hover {
+    border-color: #4C83EF;
+    background-color: #95BCF2;
+}
+#newTaskBox input {
+    margin: 10px;
+    width: 75%;
+}
+.hidden {
+    display: none;
+}
+.unclickable {
+    cursor: default;
+}
+/*----------------------------
+    The file upload form
+-----------------------------*/
+
+#uploadDiv {
+    border-style: solid;
+    border-color: #444444;
+    border-radius: 10px;
+    background-color: #EEEEEE;
+    text-align: center;
+    font-size: 1.6em;
+    margin-top: 26px;
+    margin-bottom: 20px;
+}
+#uploadDiv p {
+    padding-top: 5px;
+}
+#uploadTitle {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#uploadMessage {
+    text-align: center;
+    font-size: 0.8em;
+    padding-bottom: 0px !important;
+    margin-bottom: -10px !important;
+}
+#drop {
+    border-style: solid;
+    border-color: black;
+    border-radius: 4px;
+    border-width: 1px;
+    background-color: #999999;
+    width: 100%;
+    text-align: left;
+    padding-bottom: 45px;
+}
+#drop p {
+    text-align: center;
+}
+#drop a {
+    margin-left: 20px;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    color: white;
+    background-color: #66ccff;
+    border-radius: 14px;
+    cursor: pointer;
+}
+#drop a:hover {
+    background-color: #0986a3;
+}
+#uploadLeft {
+    float: left;
+}
+#uploadRight {
+    padding-left: 130px;
+    padding-right: 25px;
+}
+#upload input {
+    display: none;
+}
+#mainProgBar {
+    padding-bottom: -20px;
+    margin-bottom: -20px;
+}
+#green_circle {
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all .8s ease-in-out;
+    -ms-transition: all .7s ease-in-out;
+    transition: all .7s ease-in-out;
+}
+#green_circle {
+    background: grey;
+    border-radius: 100%;
+    position: absolute;
+    left: 100px;
+    top: 20px;
+    -webkit-transform: scale(0.1);
+    -moz-transform: scale(0.1);
+    -o-transform: scale(0.1);
+    -ms-transform: scale(0.1);
+    transform: scale(0.1);
+    width: 70px;
+    height: 70px;
+    opacity: 0;
+}
+
+/*----------------------------
+   Calendar event form
+-----------------------------*/
+#calForm{
+  color:black;
+}
+.label{
+  color:black;
+}

@@ -1,0 +1,244 @@
+
+
+04/30/2015 @ 6:15:01PM - User dave\\lordan attemping to log in
+04/30/2015 @ 6:15:01PM - User dave\\lordan logged in successfully
+
+04/30/2015 @ 6:16:07PM - User dave\\lordan attemping to log in
+04/30/2015 @ 6:16:07PM - User dave\\lordan logged in successfully
+
+04/30/2015 @ 6:16:13PM - User dave\\lordan attemping to log in
+04/30/2015 @ 6:16:13PM - User dave\\lordan logged in successfully
+
+04/30/2015 @ 6:16:26PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:16:26PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:25:48PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:25:48PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:30:40PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:30:40PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:36:12PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:36:12PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:36:47PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:36:47PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:37:36PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:37:36PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:39:40PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:39:40PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:40:27PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:40:27PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:42:26PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:42:26PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:50:27PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:50:27PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:50:33PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:50:33PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:50:55PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:50:55PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:51:24PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:51:24PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:53:50PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:53:50PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:55:29PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:55:29PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:57:14PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:57:14PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 6:57:45PM - User dave.lordan attemping to log in
+04/30/2015 @ 6:57:45PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:00:17PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:00:17PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:01:00PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:01:00PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:02:45PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:02:45PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:03:10PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:03:10PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:06:42PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:06:42PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:11:19PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:11:19PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:11:52PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:11:52PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:13:53PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:13:53PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:14:18PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:14:18PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:16:50PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:16:50PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:17:51PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:17:51PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:22:35PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:22:35PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:23:23PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:23:23PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:24:13PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:24:13PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:24:49PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:24:49PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:25:29PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:25:29PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:27:13PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:27:13PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:34:43PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:34:43PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:39:55PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:39:55PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 7:41:14PM - User dave.lordan attemping to log in
+04/30/2015 @ 7:41:14PM - User dave.lordan logged in successfully
+
+04/30/2015 @ 8:17:20PM - User dave lordan attemping to log in
+04/30/2015 @ 8:17:20PM - User dave lordan logged in successfully
+
+04/30/2015 @ 8:17:54PM - User dave lordan attemping to log in
+04/30/2015 @ 8:17:54PM - User dave lordan logged in successfully
+
+04/30/2015 @ 8:34:18PM - User test123 attemping to log in
+04/30/2015 @ 8:34:18PM - User test123 logged in successfully
+
+04/30/2015 @ 8:34:55PM - User test123 attemping to log in
+04/30/2015 @ 8:34:55PM - User test123 logged in successfully
+
+04/30/2015 @ 8:36:10PM - User test123 attemping to log in
+04/30/2015 @ 8:36:10PM - User test123 logged in successfully
+
+04/30/2015 @ 8:37:54PM - User test123 attemping to log in
+04/30/2015 @ 8:37:54PM - User test123 logged in successfully
+
+04/30/2015 @ 8:39:07PM - User 4321 attemping to log in
+04/30/2015 @ 8:39:07PM - User 4321 logged in successfully
+
+04/30/2015 @ 8:41:37PM - User 1 attemping to log in
+04/30/2015 @ 8:41:37PM - User 1 logged in successfully
+
+04/30/2015 @ 8:45:24PM - User daveTest attemping to log in
+04/30/2015 @ 8:45:24PM - User daveTest logged in successfully
+
+05/01/2015 @ 10:13:53AM - User test123 attemping to log in
+05/01/2015 @ 10:13:53AM - User test123 logged in successfully
+
+05/01/2015 @ 10:42:31AM - User presentation attemping to log in
+05/01/2015 @ 10:42:31AM - User presentation logged in successfully
+
+05/01/2015 @ 10:43:02AM - User presentation attemping to log in
+05/01/2015 @ 10:43:02AM - User presentation logged in successfully
+
+05/01/2015 @ 10:43:08AM - User presentation attemping to log in
+05/01/2015 @ 10:43:08AM - User presentation logged in successfully
+
+05/01/2015 @ 10:43:35AM - User presentation attemping to log in
+05/01/2015 @ 10:43:35AM - User presentation logged in successfully
+
+05/01/2015 @ 10:43:43AM - User presentation attemping to log in
+05/01/2015 @ 10:43:43AM - User presentation logged in successfully
+
+05/01/2015 @ 10:43:52AM - User presentation attemping to log in
+05/01/2015 @ 10:43:52AM - User presentation logged in successfully
+
+05/01/2015 @ 10:44:27AM - User presentation attemping to log in
+05/01/2015 @ 10:44:27AM - User presentation logged in successfully
+
+05/01/2015 @ 10:44:30AM - User presentation attemping to log in
+05/01/2015 @ 10:44:30AM - User presentation logged in successfully
+
+05/01/2015 @ 11:31:03AM - User presentation attemping to log in
+05/01/2015 @ 11:31:03AM - User presentation logged in successfully
+
+05/01/2015 @ 11:32:46AM - User presentation attemping to log in
+05/01/2015 @ 11:32:46AM - User presentation logged in successfully
+
+05/01/2015 @ 11:44:07AM - User presentation attemping to log in
+05/01/2015 @ 11:44:07AM - User presentation logged in successfully
+
+05/01/2015 @ 11:44:48AM - User presentation attemping to log in
+05/01/2015 @ 11:44:48AM - User presentation logged in successfully
+
+05/01/2015 @ 11:45:01AM - User presentation attemping to log in
+05/01/2015 @ 11:45:01AM - User presentation logged in successfully
+
+05/01/2015 @ 11:46:55AM - User presentation attemping to log in
+05/01/2015 @ 11:46:55AM - User presentation logged in successfully
+
+05/01/2015 @ 11:47:29AM - User presentation attemping to log in
+05/01/2015 @ 11:47:29AM - User presentation logged in successfully
+
+05/01/2015 @ 4:09:33PM - User test123 attemping to log in
+05/01/2015 @ 4:09:33PM - User test123 logged in successfully
+
+05/01/2015 @ 4:16:39PM - User test123 attemping to log in
+05/01/2015 @ 4:16:39PM - User test123 logged in successfully
+
+05/01/2015 @ 4:18:29PM - User test123 attemping to log in
+05/01/2015 @ 4:18:29PM - User test123 logged in successfully
+
+05/01/2015 @ 4:42:10PM - User test123 attemping to log in
+05/01/2015 @ 4:42:10PM - User test123 logged in successfully
+
+05/01/2015 @ 4:42:18PM - User test123 attemping to log in
+05/01/2015 @ 4:42:18PM - User test123 logged in successfully
+
+05/01/2015 @ 5:26:48PM - User test123 attemping to log in
+05/01/2015 @ 5:26:48PM - User test123 logged in successfully
+
+05/01/2015 @ 5:26:49PM - User nuds attemping to log in
+05/01/2015 @ 5:26:49PM - User nuds logged in successfully
+
+05/01/2015 @ 5:28:11PM - User test123 attemping to log in
+05/01/2015 @ 5:28:11PM - User test123 logged in successfully
+
+05/01/2015 @ 5:28:33PM - User test123 attemping to log in
+05/01/2015 @ 5:28:33PM - User test123 logged in successfully
+
+05/01/2015 @ 5:30:08PM - User test123 attemping to log in
+05/01/2015 @ 5:30:08PM - User test123 logged in successfully
+
+05/01/2015 @ 5:30:54PM - User test123 attemping to log in
+05/01/2015 @ 5:30:54PM - User test123 logged in successfully
+
+05/01/2015 @ 6:44:22PM - User test123 attemping to log in
+05/01/2015 @ 6:44:22PM - User test123 logged in successfully
+
+05/02/2015 @ 12:52:07AM - User badalata attemping to log in
+05/02/2015 @ 12:52:07AM - User badalata logged in successfully
+
+05/02/2015 @ 12:58:13AM - User test123 attemping to log in
+05/02/2015 @ 12:58:13AM - User test123 logged in successfully
+
+05/02/2015 @ 11:00:40AM - User 12 attemping to log in
+05/02/2015 @ 11:00:40AM - User 12 logged in successfully
+
+05/02/2015 @ 11:06:49AM - User 12 attemping to log in
+05/02/2015 @ 11:06:49AM - User 12 logged in successfully

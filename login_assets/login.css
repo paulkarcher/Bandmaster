@@ -1,0 +1,105 @@
+/* This file contains various styling for the login page. */
+/* Much of this is taken from bootstrap templates. */
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+
+body {  
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  background-color: black;
+}
+
+/*Sets a default background images and fixes their position. */
+#backImages, #frontImages{
+  background-image: url("images/sheetMusic.jpg");
+  width:100%;
+  height:100%;
+  position: absolute;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  z-index: -1;
+}
+
+#frontImages{
+  background-image: url("images/drummer.jpg");
+}
+
+/*Container for login sceen UI.*/ 
+.container {
+    padding: 225px;
+    padding-top: 350px;
+}
+
+.row-centered {
+    text-align:center;
+}
+
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+.col-fixed {
+    /* custom width */
+    width:320px;
+}
+
+#welcomeMessage{
+  font-size: 46px;
+}
+
+h3{
+  text-align: center;
+}
+
+/*Color settings for the login UI. */
+.form-login {
+    width: 300px;
+    background-color: #EDEDED;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    border-color:#d2d2d2;
+    border-width: 5px;
+    box-shadow:0 1px 0 #cfcfcf;
+}
+
+.newAccount {
+    width: 400px;
+    background-color: #EDEDED;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    border-color:#d2d2d2;
+    border-width: 5px;
+    box-shadow:0 1px 0 #cfcfcf;
+
+}
+
+h4 { 
+ border:0 solid #fff; 
+ border-bottom-width:1px;
+ padding-bottom:10px;
+ text-align: center;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+#newPageLink{
+  text-align: center;
+}

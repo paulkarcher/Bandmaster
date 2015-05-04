@@ -1,0 +1,649 @@
+
+
+03/30/2015 @ 4:20:14PM - User dave123 attemping to log in
+03/30/2015 @ 4:20:14PM - User dave123 does not exist
+
+03/30/2015 @ 4:20:16PM - User dave123 attemping to log in
+03/30/2015 @ 4:20:16PM - User dave123 does not exist
+
+03/30/2015 @ 4:20:24PM - User 123 attemping to log in
+03/30/2015 @ 4:20:24PM - User 123 does not exist
+
+03/30/2015 @ 4:20:34PM - User dave123 attemping to log in
+03/30/2015 @ 4:20:34PM - User dave123 does not exist
+
+03/30/2015 @ 4:22:34PM - User 123 attemping to log in
+03/30/2015 @ 4:22:34PM - User 123 does not exist
+
+03/30/2015 @ 4:22:35PM - User 123 attemping to log in
+03/30/2015 @ 4:22:35PM - User 123 does not exist
+
+03/30/2015 @ 4:22:35PM - User 123 attemping to log in
+03/30/2015 @ 4:22:35PM - User 123 does not exist
+
+03/30/2015 @ 4:22:36PM - User 123 attemping to log in
+03/30/2015 @ 4:22:36PM - User 123 does not exist
+
+03/30/2015 @ 4:26:37PM - User 123 attemping to log in
+
+
+03/30/2015 @ 4:26:38PM - User 123 attemping to log in
+
+
+03/30/2015 @ 4:26:38PM - User 123 attemping to log in
+
+
+03/30/2015 @ 4:31:08PM - User  attemping to log in
+
+
+03/30/2015 @ 4:31:09PM - User  attemping to log in
+
+
+03/30/2015 @ 4:31:12PM - User 123 attemping to log in
+
+
+03/30/2015 @ 4:31:12PM - User 123 attemping to log in
+
+
+03/30/2015 @ 4:31:12PM - User 123 attemping to log in
+
+
+03/30/2015 @ 4:31:12PM - User 123 attemping to log in
+
+
+03/30/2015 @ 4:31:33PM - User  attemping to log in
+03/30/2015 @ 4:31:33PM - User  does not exist
+
+03/30/2015 @ 4:31:57PM - User 123 attemping to log in
+03/30/2015 @ 4:31:57PM - User 123 does not exist
+
+03/30/2015 @ 4:31:58PM - User 123 attemping to log in
+03/30/2015 @ 4:31:58PM - User 123 does not exist
+
+03/30/2015 @ 4:31:59PM - User 123 attemping to log in
+03/30/2015 @ 4:31:59PM - User 123 does not exist
+
+03/30/2015 @ 4:31:59PM - User 123 attemping to log in
+03/30/2015 @ 4:31:59PM - User 123 does not exist
+
+03/30/2015 @ 4:32:04PM - User 123 attemping to log in
+03/30/2015 @ 4:32:04PM - User 123 does not exist
+
+03/30/2015 @ 4:32:05PM - User 123 attemping to log in
+03/30/2015 @ 4:32:05PM - User 123 does not exist
+
+03/30/2015 @ 4:32:05PM - User 123 attemping to log in
+03/30/2015 @ 4:32:05PM - User 123 does not exist
+
+03/30/2015 @ 4:32:30PM - User 12 attemping to log in
+03/30/2015 @ 4:32:30PM - User 12 does not exist
+
+03/30/2015 @ 4:32:32PM - User 12 attemping to log in
+03/30/2015 @ 4:32:32PM - User 12 does not exist
+
+03/30/2015 @ 4:32:32PM - User 12 attemping to log in
+03/30/2015 @ 4:32:32PM - User 12 does not exist
+
+03/30/2015 @ 4:32:32PM - User 12 attemping to log in
+03/30/2015 @ 4:32:32PM - User 12 does not exist
+
+03/30/2015 @ 4:32:32PM - User 12 attemping to log in
+03/30/2015 @ 4:32:32PM - User 12 does not exist
+
+03/30/2015 @ 4:32:47PM - User 123 attemping to log in
+03/30/2015 @ 4:32:47PM - User 123 does not exist
+
+03/30/2015 @ 4:34:18PM - User  attemping to log in
+
+
+03/30/2015 @ 4:34:53PM - User  attemping to log in
+03/30/2015 @ 4:34:53PM - User  does not exist
+
+03/30/2015 @ 4:35:40PM - User  attemping to log in
+03/30/2015 @ 4:35:40PM - User  does not exist
+
+03/30/2015 @ 4:35:45PM - User 123 attemping to log in
+03/30/2015 @ 4:35:45PM - User 123 has an invalid password
+
+03/30/2015 @ 4:36:08PM - User  attemping to log in
+03/30/2015 @ 4:36:08PM - User  does not exist
+
+03/30/2015 @ 4:36:11PM - User 123 attemping to log in
+03/30/2015 @ 4:36:11PM - User 123 has an invalid password
+
+03/30/2015 @ 4:53:02PM - User jim1 attemping to log in
+03/30/2015 @ 4:53:02PM - User jim1 does not exist
+
+03/30/2015 @ 4:54:54PM - User jim2 attemping to log in
+03/30/2015 @ 4:54:54PM - User jim2 logged in successfully
+
+03/30/2015 @ 4:59:00PM - User jim2 attemping to log in
+03/30/2015 @ 4:59:00PM - User jim2 logged in successfully
+
+03/30/2015 @ 5:00:30PM - User jim2 attemping to log in
+03/30/2015 @ 5:00:30PM - User jim2 logged in successfully
+
+03/30/2015 @ 5:00:51PM - User jim2 attemping to log in
+03/30/2015 @ 5:00:51PM - User jim2 logged in successfully
+
+03/30/2015 @ 5:02:19PM - User jim2 attemping to log in
+03/30/2015 @ 5:02:19PM - User jim2 logged in successfully
+
+03/30/2015 @ 5:04:04PM - User jim2 attemping to log in
+03/30/2015 @ 5:04:04PM - User jim2 logged in successfully
+
+03/30/2015 @ 5:11:04PM - User jim2 attemping to log in
+03/30/2015 @ 5:11:04PM - User jim2 logged in successfully
+
+03/30/2015 @ 5:11:17PM - User 123 attemping to log in
+03/30/2015 @ 5:11:17PM - User 123 has an invalid password
+
+03/30/2015 @ 5:11:26PM - User 123adadfadfa attemping to log in
+03/30/2015 @ 5:11:26PM - User 123adadfadfa does not exist
+
+03/30/2015 @ 5:14:03PM - User jim5 attemping to log in
+03/30/2015 @ 5:14:03PM - User jim5 logged in successfully
+
+03/30/2015 @ 5:20:11PM - User dave1 attemping to log in
+03/30/2015 @ 5:20:11PM - User dave1 logged in successfully
+
+03/30/2015 @ 5:43:19PM - User dave3 attemping to log in
+03/30/2015 @ 5:43:19PM - User dave3 logged in successfully
+
+03/30/2015 @ 7:05:11PM - User dean attemping to log in
+03/30/2015 @ 7:05:11PM - User dean does not exist
+
+03/30/2015 @ 9:49:01PM - User lokicat1 attemping to log in
+03/30/2015 @ 9:49:01PM - User lokicat1 does not exist
+
+03/30/2015 @ 9:49:24PM - User lokicat1 attemping to log in
+03/30/2015 @ 9:49:24PM - User lokicat1 logged in successfully
+
+03/31/2015 @ 1:23:38PM - User dave5 attemping to log in
+03/31/2015 @ 1:23:38PM - User dave5 does not exist
+
+03/31/2015 @ 1:25:40PM - User test123 attemping to log in
+03/31/2015 @ 1:25:40PM - User test123 logged in successfully
+
+03/31/2015 @ 1:25:49PM - User test123 attemping to log in
+03/31/2015 @ 1:25:49PM - User test123 has an invalid password
+
+03/31/2015 @ 1:30:25PM - User test123 attemping to log in
+03/31/2015 @ 1:30:25PM - User test123 logged in successfully
+
+03/31/2015 @ 1:33:08PM - User  attemping to log in
+03/31/2015 @ 1:33:08PM - User  does not exist
+
+03/31/2015 @ 1:33:15PM - User test123 attemping to log in
+03/31/2015 @ 1:33:15PM - User test123 logged in successfully
+
+04/01/2015 @ 11:36:28AM - User test123 attemping to log in
+04/01/2015 @ 11:36:28AM - User test123 has an invalid password
+
+04/01/2015 @ 5:21:58PM - User dave123 attemping to log in
+04/01/2015 @ 5:21:58PM - User dave123 does not exist
+
+04/02/2015 @ 10:23:43AM - User dave123 attemping to log in
+04/02/2015 @ 10:23:43AM - User dave123 logged in successfully
+
+04/02/2015 @ 1:12:27PM - User dave123 attemping to log in
+04/02/2015 @ 1:12:27PM - User dave123 logged in successfully
+
+04/05/2015 @ 7:43:26PM - User test123 attemping to log in
+04/05/2015 @ 7:43:26PM - User test123 has an invalid password
+
+04/05/2015 @ 7:44:36PM - User nuds attemping to log in
+04/05/2015 @ 7:44:36PM - User nuds logged in successfully
+
+04/05/2015 @ 7:44:56PM - User nuds attemping to log in
+04/05/2015 @ 7:44:56PM - User nuds logged in successfully
+
+04/05/2015 @ 7:46:16PM - User dave123 attemping to log in
+04/05/2015 @ 7:46:16PM - User dave123 logged in successfully
+
+04/05/2015 @ 7:47:21PM - User nuds attemping to log in
+04/05/2015 @ 7:47:21PM - User nuds logged in successfully
+
+04/05/2015 @ 7:47:48PM - User nuds attemping to log in
+04/05/2015 @ 7:47:48PM - User nuds logged in successfully
+
+04/07/2015 @ 12:53:26PM - User jesse123 attemping to log in
+04/07/2015 @ 12:53:26PM - User jesse123 has an invalid password
+
+04/07/2015 @ 12:53:29PM - User jesse123 attemping to log in
+04/07/2015 @ 12:53:29PM - User jesse123 logged in successfully
+
+04/07/2015 @ 12:54:30PM - User jesse123 attemping to log in
+04/07/2015 @ 12:54:30PM - User jesse123 logged in successfully
+
+04/07/2015 @ 1:22:42PM - User test123 attemping to log in
+04/07/2015 @ 1:22:42PM - User test123 logged in successfully
+
+04/07/2015 @ 1:22:57PM - User test123 attemping to log in
+04/07/2015 @ 1:22:57PM - User test123 logged in successfully
+
+04/07/2015 @ 1:23:45PM - User test123 attemping to log in
+04/07/2015 @ 1:23:45PM - User test123 logged in successfully
+
+04/07/2015 @ 1:23:45PM - User test123 attemping to log in
+04/07/2015 @ 1:23:45PM - User test123 logged in successfully
+
+04/07/2015 @ 1:31:51PM - User test123 attemping to log in
+04/07/2015 @ 1:31:51PM - User test123 logged in successfully
+
+04/11/2015 @ 5:35:31PM - User test123 attemping to log in
+04/11/2015 @ 5:35:31PM - User test123 logged in successfully
+
+04/11/2015 @ 5:42:10PM - User test123 attemping to log in
+04/11/2015 @ 5:42:10PM - User test123 logged in successfully
+
+04/13/2015 @ 12:40:48PM - User dean attemping to log in
+04/13/2015 @ 12:40:48PM - User dean logged in successfully
+
+04/13/2015 @ 8:20:26PM - User dean attemping to log in
+04/13/2015 @ 8:20:26PM - User dean logged in successfully
+
+04/13/2015 @ 8:49:41PM - User dean attemping to log in
+04/13/2015 @ 8:49:41PM - User dean logged in successfully
+
+04/13/2015 @ 9:21:24PM - User dean attemping to log in
+04/13/2015 @ 9:21:24PM - User dean logged in successfully
+
+04/13/2015 @ 9:28:51PM - User dean attemping to log in
+04/13/2015 @ 9:28:51PM - User dean does not exist
+
+04/14/2015 @ 2:32:31AM - User 2 attemping to log in
+04/14/2015 @ 2:32:31AM - User 2 logged in successfully
+
+04/14/2015 @ 7:57:08AM - User dean attemping to log in
+04/14/2015 @ 7:57:08AM - User dean logged in successfully
+
+04/14/2015 @ 8:04:19AM - User dean attemping to log in
+04/14/2015 @ 8:04:19AM - User dean logged in successfully
+
+04/14/2015 @ 8:13:09AM - User dean attemping to log in
+04/14/2015 @ 8:13:09AM - User dean logged in successfully
+
+04/14/2015 @ 12:19:10PM - User dean attemping to log in
+04/14/2015 @ 12:19:10PM - User dean logged in successfully
+
+04/14/2015 @ 12:54:03PM - User mark attemping to log in
+04/14/2015 @ 12:54:03PM - User mark logged in successfully
+
+04/14/2015 @ 12:56:43PM - User mark attemping to log in
+04/14/2015 @ 12:56:43PM - User mark logged in successfully
+
+04/14/2015 @ 1:36:57PM - User kcarcia attemping to log in
+04/14/2015 @ 1:36:57PM - User kcarcia has an invalid password
+
+04/14/2015 @ 1:37:03PM - User kcarcia attemping to log in
+04/14/2015 @ 1:37:03PM - User kcarcia has an invalid password
+
+04/14/2015 @ 1:37:20PM - User kcarcia attemping to log in
+04/14/2015 @ 1:37:20PM - User kcarcia has an invalid password
+
+04/14/2015 @ 1:37:24PM - User kcarcia attemping to log in
+04/14/2015 @ 1:37:24PM - User kcarcia has an invalid password
+
+04/14/2015 @ 1:37:25PM - User kcarcia attemping to log in
+04/14/2015 @ 1:37:25PM - User kcarcia has an invalid password
+
+04/14/2015 @ 1:37:26PM - User kcarcia attemping to log in
+04/14/2015 @ 1:37:26PM - User kcarcia has an invalid password
+
+04/14/2015 @ 1:37:27PM - User kcarcia attemping to log in
+04/14/2015 @ 1:37:27PM - User kcarcia has an invalid password
+
+04/14/2015 @ 1:37:27PM - User kcarcia attemping to log in
+04/14/2015 @ 1:37:27PM - User kcarcia has an invalid password
+
+04/14/2015 @ 1:37:31PM - User kcarcia attemping to log in
+04/14/2015 @ 1:37:31PM - User kcarcia has an invalid password
+
+04/14/2015 @ 1:37:31PM - User kcarcia attemping to log in
+04/14/2015 @ 1:37:31PM - User kcarcia has an invalid password
+
+04/14/2015 @ 1:37:32PM - User kcarcia attemping to log in
+04/14/2015 @ 1:37:32PM - User kcarcia has an invalid password
+
+04/14/2015 @ 1:37:55PM - User kate-carcia attemping to log in
+04/14/2015 @ 1:37:55PM - User kate-carcia logged in successfully
+
+04/14/2015 @ 1:39:22PM - User kate-carcia attemping to log in
+04/14/2015 @ 1:39:22PM - User kate-carcia logged in successfully
+
+04/16/2015 @ 12:54:24PM - User test123 attemping to log in
+04/16/2015 @ 12:54:24PM - User test123 logged in successfully
+
+04/18/2015 @ 10:10:45PM - User  attemping to log in
+04/18/2015 @ 10:10:45PM - User  does not exist
+
+04/18/2015 @ 10:16:53PM - User test123 attemping to log in
+04/18/2015 @ 10:16:53PM - User test123 logged in successfully
+
+04/18/2015 @ 10:21:08PM - User dave123 attemping to log in
+04/18/2015 @ 10:21:08PM - User dave123 has an invalid password
+
+04/18/2015 @ 10:21:13PM - User dave5 attemping to log in
+04/18/2015 @ 10:21:13PM - User dave5 does not exist
+
+04/18/2015 @ 10:21:56PM - User dave123 attemping to log in
+04/18/2015 @ 10:21:56PM - User dave123 has an invalid password
+
+04/18/2015 @ 10:22:01PM - User test123 attemping to log in
+04/18/2015 @ 10:22:01PM - User test123 logged in successfully
+
+04/19/2015 @ 9:06:07AM - User dean attemping to log in
+04/19/2015 @ 9:06:07AM - User dean logged in successfully
+
+04/19/2015 @ 11:30:34AM - User test123 attemping to log in
+04/19/2015 @ 11:30:34AM - User test123 does not exist
+
+04/19/2015 @ 11:30:47AM - User test123 attemping to log in
+04/19/2015 @ 11:30:47AM - User test123 logged in successfully
+
+04/19/2015 @ 11:31:25AM - User test123 attemping to log in
+04/19/2015 @ 11:31:25AM - User test123 logged in successfully
+
+04/19/2015 @ 2:20:46PM - User dean attemping to log in
+04/19/2015 @ 2:20:46PM - User dean logged in successfully
+
+04/19/2015 @ 7:40:36PM - User test123 attemping to log in
+04/19/2015 @ 7:40:36PM - User test123 logged in successfully
+
+04/19/2015 @ 8:52:02PM - User  attemping to log in
+04/19/2015 @ 8:52:02PM - User  does not exist
+
+04/19/2015 @ 8:52:08PM - User  attemping to log in
+04/19/2015 @ 8:52:08PM - User  does not exist
+
+04/19/2015 @ 8:52:11PM - User  attemping to log in
+04/19/2015 @ 8:52:11PM - User  does not exist
+
+04/19/2015 @ 8:52:19PM - User  attemping to log in
+04/19/2015 @ 8:52:19PM - User  does not exist
+
+04/19/2015 @ 8:52:39PM - User test123 attemping to log in
+04/19/2015 @ 8:52:39PM - User test123 logged in successfully
+
+04/19/2015 @ 8:55:54PM - User test123 attemping to log in
+04/19/2015 @ 8:55:54PM - User test123 logged in successfully
+
+04/19/2015 @ 10:52:59PM - User dave2 attemping to log in
+04/19/2015 @ 10:52:59PM - User dave2 does not exist
+
+04/19/2015 @ 11:37:11PM - User test123 attemping to log in
+04/19/2015 @ 11:37:11PM - User test123 logged in successfully
+
+04/19/2015 @ 11:47:14PM - User woah attemping to log in
+04/19/2015 @ 11:47:14PM - User woah does not exist
+
+04/19/2015 @ 11:47:20PM - User test123 attemping to log in
+04/19/2015 @ 11:47:20PM - User test123 logged in successfully
+
+04/20/2015 @ 9:17:38AM - User test123 attemping to log in
+04/20/2015 @ 9:17:38AM - User test123 has an invalid password
+
+04/20/2015 @ 9:17:39AM - User test123 attemping to log in
+04/20/2015 @ 9:17:39AM - User test123 logged in successfully
+
+04/20/2015 @ 9:17:51AM - User test123 attemping to log in
+04/20/2015 @ 9:17:51AM - User test123 logged in successfully
+
+04/21/2015 @ 12:48:40PM - User test123 attemping to log in
+
+
+04/21/2015 @ 12:48:40PM - User test123 attemping to log in
+04/21/2015 @ 12:48:40PM - User test123 logged in successfully04/21/2015 @ 12:48:40PM - User test123 logged in successfully
+
+04/21/2015 @ 1:43:55PM - User test123 attemping to log in
+04/21/2015 @ 1:43:55PM - User test123 logged in successfully
+
+04/24/2015 @ 7:07:33PM - User test123 attemping to log in
+04/24/2015 @ 7:07:33PM - User test123 logged in successfully
+
+04/26/2015 @ 9:32:17AM - User test123 attemping to log in
+04/26/2015 @ 9:32:17AM - User test123 logged in successfully
+
+04/26/2015 @ 10:26:39AM - User dean2 attemping to log in
+04/26/2015 @ 10:26:39AM - User dean2 logged in successfully
+
+04/26/2015 @ 2:13:15PM - User dean attemping to log in
+04/26/2015 @ 2:13:15PM - User dean logged in successfully
+
+04/26/2015 @ 5:00:23PM - User dean attemping to log in
+04/26/2015 @ 5:00:23PM - User dean logged in successfully
+
+04/26/2015 @ 6:01:12PM - User dean attemping to log in
+04/26/2015 @ 6:01:12PM - User dean logged in successfully
+
+04/26/2015 @ 7:20:13PM - User 2 attemping to log in
+04/26/2015 @ 7:20:13PM - User 2 logged in successfully
+
+04/26/2015 @ 7:35:39PM - User test6 attemping to log in
+04/26/2015 @ 7:35:39PM - User test6 logged in successfully
+
+04/26/2015 @ 7:42:35PM - User test2 attemping to log in
+04/26/2015 @ 7:42:35PM - User test2 logged in successfully
+
+04/26/2015 @ 7:43:17PM - User test123 attemping to log in
+04/26/2015 @ 7:43:17PM - User test123 logged in successfully
+
+04/27/2015 @ 11:34:04AM - User dean attemping to log in
+04/27/2015 @ 11:34:04AM - User dean logged in successfully
+
+04/27/2015 @ 11:40:32AM - User dean attemping to log in
+04/27/2015 @ 11:40:32AM - User dean logged in successfully
+
+04/27/2015 @ 11:53:55AM - User dean attemping to log in
+04/27/2015 @ 11:53:55AM - User dean logged in successfully
+
+04/27/2015 @ 12:06:26PM - User dean attemping to log in
+04/27/2015 @ 12:06:26PM - User dean logged in successfully
+
+04/27/2015 @ 12:23:33PM - User dean attemping to log in
+04/27/2015 @ 12:23:33PM - User dean logged in successfully
+
+04/27/2015 @ 12:51:30PM - User dean attemping to log in
+04/27/2015 @ 12:51:30PM - User dean logged in successfully
+
+04/27/2015 @ 3:01:14PM - User 2 attemping to log in
+04/27/2015 @ 3:01:14PM - User 2 logged in successfully
+
+04/27/2015 @ 3:05:17PM - User dean attemping to log in
+04/27/2015 @ 3:05:17PM - User dean logged in successfully
+
+04/27/2015 @ 3:14:11PM - User dean attemping to log in
+04/27/2015 @ 3:14:11PM - User dean logged in successfully
+
+04/27/2015 @ 3:17:26PM - User dean attemping to log in
+04/27/2015 @ 3:17:26PM - User dean logged in successfully
+
+04/27/2015 @ 3:36:34PM - User dean attemping to log in
+04/27/2015 @ 3:36:36PM - User dean logged in successfully
+
+04/27/2015 @ 3:39:34PM - User dean attemping to log in
+04/27/2015 @ 3:39:34PM - User dean logged in successfully
+
+04/27/2015 @ 4:02:16PM - User dean attemping to log in
+04/27/2015 @ 4:02:16PM - User dean logged in successfully
+
+04/27/2015 @ 4:02:16PM - User dean attemping to log in
+04/27/2015 @ 4:02:16PM - User dean logged in successfully
+
+04/27/2015 @ 5:06:23PM - User test123 attemping to log in
+04/27/2015 @ 5:06:23PM - User test123 logged in successfully
+
+04/27/2015 @ 5:08:02PM - User admin attemping to log in
+04/27/2015 @ 5:08:02PM - User admin does not exist
+
+04/27/2015 @ 5:10:52PM - User admin attemping to log in
+04/27/2015 @ 5:10:52PM - User admin does not exist
+
+04/27/2015 @ 5:24:05PM - User dean attemping to log in
+04/27/2015 @ 5:24:05PM - User dean does not exist
+
+04/27/2015 @ 5:26:39PM - User test123 attemping to log in
+04/27/2015 @ 5:26:39PM - User test123 logged in successfully
+
+04/27/2015 @ 5:26:55PM - User dean attemping to log in
+04/27/2015 @ 5:26:55PM - User dean logged in successfully
+
+04/27/2015 @ 5:30:17PM - User dean attemping to log in
+04/27/2015 @ 5:30:17PM - User dean logged in successfully
+
+04/27/2015 @ 5:43:42PM - User dave attemping to log in
+04/27/2015 @ 5:43:42PM - User dave logged in successfully
+
+04/27/2015 @ 6:00:05PM - User presentation attemping to log in
+04/27/2015 @ 6:00:05PM - User presentation logged in successfully
+
+04/27/2015 @ 6:03:56PM - User garthretallack attemping to log in
+04/27/2015 @ 6:03:56PM - User garthretallack logged in successfully
+
+04/27/2015 @ 6:07:31PM - User 8 attemping to log in
+04/27/2015 @ 6:07:31PM - User 8 logged in successfully
+
+04/27/2015 @ 6:08:05PM - User 8 attemping to log in
+04/27/2015 @ 6:08:05PM - User 8 logged in successfully
+
+04/27/2015 @ 6:27:29PM - User garthretalli attemping to log in
+04/27/2015 @ 6:27:29PM - User garthretalli does not exist
+
+04/27/2015 @ 6:27:33PM - User test123 attemping to log in
+04/27/2015 @ 6:27:33PM - User test123 logged in successfully
+
+04/27/2015 @ 6:28:48PM - User dean attemping to log in
+04/27/2015 @ 6:28:48PM - User dean logged in successfully
+
+04/27/2015 @ 6:31:06PM - User dean attemping to log in
+04/27/2015 @ 6:31:06PM - User dean logged in successfully
+
+04/27/2015 @ 6:50:39PM - User presentation attemping to log in
+04/27/2015 @ 6:50:39PM - User presentation logged in successfully
+
+04/27/2015 @ 7:14:28PM - User dean attemping to log in
+04/27/2015 @ 7:14:28PM - User dean logged in successfully
+
+04/27/2015 @ 7:20:26PM - User test123 attemping to log in
+04/27/2015 @ 7:20:26PM - User test123 logged in successfully
+
+04/27/2015 @ 7:21:39PM - User dean attemping to log in
+04/27/2015 @ 7:21:39PM - User dean logged in successfully
+
+04/27/2015 @ 9:36:21PM - User 23 attemping to log in
+04/27/2015 @ 9:36:21PM - User 23 logged in successfully
+
+04/27/2015 @ 9:42:23PM - User dean attemping to log in
+04/27/2015 @ 9:42:23PM - User dean logged in successfully
+
+04/27/2015 @ 9:44:20PM - User test2 attemping to log in
+04/27/2015 @ 9:44:20PM - User test2 does not exist
+
+04/27/2015 @ 9:45:59PM - User test123 attemping to log in
+04/27/2015 @ 9:45:59PM - User test123 logged in successfully
+
+04/27/2015 @ 10:03:07PM - User 9 attemping to log in
+04/27/2015 @ 10:03:07PM - User 9 does not exist
+
+04/27/2015 @ 10:04:09PM - User test123 attemping to log in
+04/27/2015 @ 10:04:09PM - User test123 logged in successfully
+
+04/28/2015 @ 9:42:58AM - User presentation attemping to log in
+04/28/2015 @ 9:42:58AM - User presentation does not exist
+
+04/28/2015 @ 9:43:04AM - User presentation attemping to log in
+04/28/2015 @ 9:43:04AM - User presentation does not exist
+
+04/28/2015 @ 12:17:54PM - User presentation attemping to log in
+04/28/2015 @ 12:17:54PM - User presentation logged in successfully
+
+04/28/2015 @ 12:21:00PM - User dave2 attemping to log in
+04/28/2015 @ 12:21:00PM - User dave2 does not exist
+
+04/28/2015 @ 1:25:42PM - User presentation attemping to log in
+04/28/2015 @ 1:25:42PM - User presentation logged in successfully
+
+04/28/2015 @ 1:28:43PM - User presentation attemping to log in
+04/28/2015 @ 1:28:43PM - User presentation logged in successfully
+
+04/28/2015 @ 1:37:55PM - User demo attemping to log in
+04/28/2015 @ 1:37:55PM - User demo logged in successfully
+
+04/28/2015 @ 1:38:13PM - User presentation attemping to log in
+04/28/2015 @ 1:38:13PM - User presentation logged in successfully
+
+04/28/2015 @ 1:38:51PM - User -1 attemping to log in
+04/28/2015 @ 1:38:51PM - User -1 logged in successfully
+
+04/28/2015 @ 1:38:58PM - User -1 attemping to log in
+04/28/2015 @ 1:38:58PM - User -1 logged in successfully
+
+04/28/2015 @ 1:39:02PM - User -1 attemping to log in
+04/28/2015 @ 1:39:02PM - User -1 logged in successfully
+
+04/28/2015 @ 9:10:35PM - User fuck you dave attemping to log in
+04/28/2015 @ 9:10:35PM - User fuck you dave does not exist
+
+04/28/2015 @ 9:10:51PM - User DAVESUCKS attemping to log in
+04/28/2015 @ 9:10:51PM - User DAVESUCKS does not exist
+
+04/28/2015 @ 9:10:54PM - User DAVESUCKS attemping to log in
+04/28/2015 @ 9:10:54PM - User DAVESUCKS does not exist
+
+04/29/2015 @ 9:42:48PM - User test123 attemping to log in
+04/29/2015 @ 9:42:48PM - User test123 logged in successfully
+
+04/29/2015 @ 10:55:17PM - User test123 attemping to log in
+04/29/2015 @ 10:55:17PM - User test123 logged in successfully
+
+04/30/2015 @ 12:29:02PM - User test123 attemping to log in
+04/30/2015 @ 12:29:02PM - User test123 logged in successfully
+
+04/30/2015 @ 6:14:53PM - User dave lorean attemping to log in
+04/30/2015 @ 6:14:53PM - User dave lorean does not exist
+
+04/30/2015 @ 6:15:01PM - User dave\\lordan attemping to log in
+04/30/2015 @ 6:15:01PM - User dave\\lordan logged in successfully
+
+04/30/2015 @ 8:34:18PM - User test123 attemping to log in
+04/30/2015 @ 8:34:18PM - User test123 logged in successfully
+
+04/30/2015 @ 8:37:53PM - User test123 attemping to log in
+04/30/2015 @ 8:37:53PM - User test123 logged in successfully
+
+04/30/2015 @ 8:38:55PM - User 4321 attemping to log in
+04/30/2015 @ 8:38:55PM - User 4321 does not exist
+
+04/30/2015 @ 8:39:13PM - User 1 attemping to log in
+04/30/2015 @ 8:39:13PM - User 1 does not exist
+
+05/01/2015 @ 10:42:31AM - User presentation attemping to log in
+05/01/2015 @ 10:42:31AM - User presentation logged in successfully
+
+05/01/2015 @ 11:31:03AM - User presentation attemping to log in
+05/01/2015 @ 11:31:03AM - User presentation logged in successfully
+
+05/01/2015 @ 11:32:46AM - User presentation attemping to log in
+05/01/2015 @ 11:32:46AM - User presentation logged in successfully
+
+05/01/2015 @ 4:18:17PM - User test231 attemping to log in
+05/01/2015 @ 4:18:17PM - User test231 does not exist
+
+05/01/2015 @ 4:18:26PM - User test123 attemping to log in
+05/01/2015 @ 4:18:26PM - User test123 has an invalid password
+
+05/01/2015 @ 4:18:29PM - User test123 attemping to log in
+05/01/2015 @ 4:18:29PM - User test123 logged in successfully
+
+05/01/2015 @ 5:26:47PM - User test123 attemping to log in
+05/01/2015 @ 5:26:47PM - User test123 logged in successfully
+
+05/01/2015 @ 6:44:22PM - User test123 attemping to log in
+05/01/2015 @ 6:44:22PM - User test123 logged in successfully
+
+05/02/2015 @ 12:58:13AM - User test123 attemping to log in
+05/02/2015 @ 12:58:13AM - User test123 logged in successfully
+
+05/02/2015 @ 11:06:49AM - User 12 attemping to log in
+05/02/2015 @ 11:06:49AM - User 12 logged in successfully

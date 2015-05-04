@@ -1,0 +1,60 @@
+/*
+      Bandmaster
+      calendarWidgetHub.css
+      authors: David Lordan, Paul Karcher, Dean Marsinelli
+      last updated: 5/1/2015
+
+      These are the stylings set up for the calendar to make it fit
+      comfortably on desktops as well as phones.
+*/
+
+/*
+  Default calendar style/fallback settings
+ */
+#calendar {
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+/*
+  Styling for when the calendar is unable to load
+ */
+#script-warning {
+  display: none;
+  background: #eee;
+  border-bottom: 1px solid #ddd;
+  padding: 0 10px;
+  line-height: 40px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 12px;
+  color: red;
+}
+
+/*
+  Styling for div while the calendar data is still being fetched
+  and parsed.
+ */ 
+#loading {
+  display: none;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+#calendar {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 10px;
+  background-color: #EEEEEE;
+}
+
+/*
+  Change color and size of labels within the calendar to black instead
+  of grey and be larger, make it visually pop out a bit more to the user.
+ */
+.label {
+  color: black;
+  size: 14px;
+}
+

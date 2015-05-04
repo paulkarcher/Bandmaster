@@ -1,0 +1,36 @@
+<div id="create">
+  <script>
+    $(document).ready(function() {
+    $(document).keydown(function(e) {
+
+      if (e.which === 13) {
+        var userName = document.getElementById('userName');
+        var password = document.getElementById('userPassword');
+        var confirm = document.getElementById('confirmPassword')
+        makeAccount(userName,password,confirm);
+      }
+    });
+  });
+  </script>  
+
+  <div class="form-login">   
+    <h4 id='windowMessage'>Select a username and password.</h4>
+    <input type="text" id="userName" class="form-control input-sm chat-input" placeholder="username" name="username" id="login_username" required autofocus/>
+    </br>
+    <input id="userPassword" class="form-control input-sm chat-input" type='password' placeholder="password" name="password" id="login_password" required/>
+    </br>
+    <input id="confirmPassword" class="form-control input-sm chat-input" type='password' placeholder="confirm password" name="confirmPassword" id="confirm_password" required/>
+    </br>
+
+    <div class="wrapper">
+      <span class="group-btn">
+        <button type='button' onclick='showWelcome()' class="btn btn-warning btn-md" value="login">cancel</button>
+        <button onclick="makeAccount(getElementById('userName'), getElementById('userPassword'), getElementById('confirmPassword'))" class="btn btn-success btn-md" value="login">go
+          <span class="glyphicon glyphicon-ok-circle"></span><i class="fa fa-sign-in"></i>
+        </button>
+      </span>
+    </div>
+  </div>
+
+</div>
+

@@ -1,0 +1,1649 @@
+
+
+03/30/2015 @ 4:36:21PM - Creating account: dave1
+03/30/2015 @ 4:36:21PM - creating directory: ./dave1
+03/30/2015 @ 4:36:21PM - copying ./templates/index.html to: ./dave1/index.html
+03/30/2015 @ 4:36:21PM - copying ./templates/functions.php to: ./dave1/functions.php
+03/30/2015 @ 4:36:21PM - copying ./templates/upload.php to: ./dave1/upload.php
+03/30/2015 @ 4:36:21PM - creating directory: ./dave1/uploads
+03/30/2015 @ 4:36:21PM - creating directory: ./dave1/JSON
+03/30/2015 @ 4:36:21PM - copying ./templates/JSON/settings.json to: ./dave1/JSON/settings.json
+03/30/2015 @ 4:36:21PM - copying ./templates/JSON/songs.json to: ./dave1/JSON/songs.json
+03/30/2015 @ 4:36:21PM - copying ./templates/JSON/taskList.json to: ./dave1/JSON/taskList.json
+03/30/2015 @ 4:36:21PM - creating directory: ./dave1/assets
+03/30/2015 @ 4:36:21PM - creating directory: ./dave1/assets/js
+03/30/2015 @ 4:36:21PM - copying ./templates/assets/js/Bandmaster.js to: ./dave1/assets/js/Bandmaster.js
+03/30/2015 @ 4:36:21PM - creating directory: ./dave1/assets/css
+03/30/2015 @ 4:36:21PM - copying ./templates/assets/css/style.css to: ./dave1/assets/css/style.css
+03/30/2015 @ 4:36:21PM - creating directory: ./dave1/assets/img
+03/30/2015 @ 4:36:21PM - copying images to: ./dave1/assets/img
+
+03/30/2015 @ 4:36:24PM - Creating account: dave1
+03/30/2015 @ 4:36:24PM - creating directory: ./dave1
+03/30/2015 @ 4:36:24PM - copying ./templates/index.html to: ./dave1/index.html
+03/30/2015 @ 4:36:24PM - copying ./templates/functions.php to: ./dave1/functions.php
+03/30/2015 @ 4:36:24PM - copying ./templates/upload.php to: ./dave1/upload.php
+03/30/2015 @ 4:36:24PM - creating directory: ./dave1/uploads
+03/30/2015 @ 4:36:24PM - creating directory: ./dave1/JSON
+03/30/2015 @ 4:36:24PM - copying ./templates/JSON/settings.json to: ./dave1/JSON/settings.json
+03/30/2015 @ 4:36:24PM - copying ./templates/JSON/songs.json to: ./dave1/JSON/songs.json
+03/30/2015 @ 4:36:24PM - copying ./templates/JSON/taskList.json to: ./dave1/JSON/taskList.json
+03/30/2015 @ 4:36:24PM - creating directory: ./dave1/assets
+03/30/2015 @ 4:36:24PM - creating directory: ./dave1/assets/js
+03/30/2015 @ 4:36:24PM - copying ./templates/assets/js/Bandmaster.js to: ./dave1/assets/js/Bandmaster.js
+03/30/2015 @ 4:36:24PM - creating directory: ./dave1/assets/css
+03/30/2015 @ 4:36:24PM - copying ./templates/assets/css/style.css to: ./dave1/assets/css/style.css
+03/30/2015 @ 4:36:24PM - creating directory: ./dave1/assets/img
+03/30/2015 @ 4:36:24PM - copying images to: ./dave1/assets/img
+
+03/30/2015 @ 4:37:30PM - Creating account: 321
+03/30/2015 @ 4:37:30PM - creating directory: ./321
+03/30/2015 @ 4:37:30PM - copying ./templates/index.html to: ./321/index.html
+03/30/2015 @ 4:37:30PM - copying ./templates/functions.php to: ./321/functions.php
+03/30/2015 @ 4:37:30PM - copying ./templates/upload.php to: ./321/upload.php
+03/30/2015 @ 4:37:30PM - creating directory: ./321/uploads
+03/30/2015 @ 4:37:30PM - creating directory: ./321/JSON
+03/30/2015 @ 4:37:30PM - copying ./templates/JSON/settings.json to: ./321/JSON/settings.json
+03/30/2015 @ 4:37:30PM - copying ./templates/JSON/songs.json to: ./321/JSON/songs.json
+03/30/2015 @ 4:37:30PM - copying ./templates/JSON/taskList.json to: ./321/JSON/taskList.json
+03/30/2015 @ 4:37:30PM - creating directory: ./321/assets
+03/30/2015 @ 4:37:30PM - creating directory: ./321/assets/js
+03/30/2015 @ 4:37:30PM - copying ./templates/assets/js/Bandmaster.js to: ./321/assets/js/Bandmaster.js
+03/30/2015 @ 4:37:30PM - creating directory: ./321/assets/css
+03/30/2015 @ 4:37:30PM - copying ./templates/assets/css/style.css to: ./321/assets/css/style.css
+03/30/2015 @ 4:37:30PM - creating directory: ./321/assets/img
+03/30/2015 @ 4:37:30PM - copying images to: ./321/assets/img
+
+03/30/2015 @ 4:43:52PM - Creating account: 1234
+03/30/2015 @ 4:43:52PM - creating directory: ../users/1234
+03/30/2015 @ 4:43:52PM - copying ./templates/index.html to: ../users/1234/index.html
+03/30/2015 @ 4:43:52PM - copying ./templates/functions.php to: ../users/1234/functions.php
+03/30/2015 @ 4:43:52PM - copying ./templates/upload.php to: ../users/1234/upload.php
+03/30/2015 @ 4:43:52PM - creating directory: ../users/1234/uploads
+03/30/2015 @ 4:43:52PM - creating directory: ../users/1234/JSON
+03/30/2015 @ 4:43:52PM - copying ./templates/JSON/settings.json to: ../users/1234/JSON/settings.json
+03/30/2015 @ 4:43:52PM - copying ./templates/JSON/songs.json to: ../users/1234/JSON/songs.json
+03/30/2015 @ 4:43:52PM - copying ./templates/JSON/taskList.json to: ../users/1234/JSON/taskList.json
+03/30/2015 @ 4:43:52PM - creating directory: ../users/1234/assets
+03/30/2015 @ 4:43:52PM - creating directory: ../users/1234/assets/js
+03/30/2015 @ 4:43:52PM - copying ./templates/assets/js/Bandmaster.js to: ../users/1234/assets/js/Bandmaster.js
+03/30/2015 @ 4:43:52PM - creating directory: ../users/1234/assets/css
+03/30/2015 @ 4:43:52PM - copying ./templates/assets/css/style.css to: ../users/1234/assets/css/style.css
+03/30/2015 @ 4:43:52PM - creating directory: ../users/1234/assets/img
+03/30/2015 @ 4:43:52PM - copying images to: ../users/1234/assets/img
+
+03/30/2015 @ 4:45:12PM - Creating account: abcd
+03/30/2015 @ 4:45:12PM - creating directory: ../users/abcd
+03/30/2015 @ 4:45:12PM - copying ./templates/index.html to: ../users/abcd/index.html
+03/30/2015 @ 4:45:12PM - copying ./templates/functions.php to: ../users/abcd/functions.php
+03/30/2015 @ 4:45:12PM - copying ./templates/upload.php to: ../users/abcd/upload.php
+03/30/2015 @ 4:45:12PM - creating directory: ../users/abcd/uploads
+03/30/2015 @ 4:45:12PM - creating directory: ../users/abcd/JSON
+03/30/2015 @ 4:45:12PM - copying ./templates/JSON/settings.json to: ../users/abcd/JSON/settings.json
+03/30/2015 @ 4:45:12PM - copying ./templates/JSON/songs.json to: ../users/abcd/JSON/songs.json
+03/30/2015 @ 4:45:12PM - copying ./templates/JSON/taskList.json to: ../users/abcd/JSON/taskList.json
+03/30/2015 @ 4:45:12PM - creating directory: ../users/abcd/assets
+03/30/2015 @ 4:45:12PM - creating directory: ../users/abcd/assets/js
+03/30/2015 @ 4:45:12PM - copying ./templates/assets/js/Bandmaster.js to: ../users/abcd/assets/js/Bandmaster.js
+03/30/2015 @ 4:45:12PM - creating directory: ../users/abcd/assets/css
+03/30/2015 @ 4:45:12PM - copying ./templates/assets/css/style.css to: ../users/abcd/assets/css/style.css
+03/30/2015 @ 4:45:12PM - creating directory: ../users/abcd/assets/img
+03/30/2015 @ 4:45:12PM - copying images to: ../users/abcd/assets/img
+
+03/30/2015 @ 4:45:55PM - Creating account: qwerty
+03/30/2015 @ 4:45:55PM - creating directory: ../users/qwerty
+03/30/2015 @ 4:45:55PM - copying ./templates/index.html to: ../users/qwerty/index.html
+03/30/2015 @ 4:45:55PM - copying ./templates/functions.php to: ../users/qwerty/functions.php
+03/30/2015 @ 4:45:55PM - copying ./templates/upload.php to: ../users/qwerty/upload.php
+03/30/2015 @ 4:45:55PM - creating directory: ../users/qwerty/uploads
+03/30/2015 @ 4:45:55PM - creating directory: ../users/qwerty/JSON
+03/30/2015 @ 4:45:55PM - copying ./templates/JSON/settings.json to: ../users/qwerty/JSON/settings.json
+03/30/2015 @ 4:45:55PM - copying ./templates/JSON/songs.json to: ../users/qwerty/JSON/songs.json
+03/30/2015 @ 4:45:55PM - copying ./templates/JSON/taskList.json to: ../users/qwerty/JSON/taskList.json
+03/30/2015 @ 4:45:55PM - creating directory: ../users/qwerty/assets
+03/30/2015 @ 4:45:55PM - creating directory: ../users/qwerty/assets/js
+03/30/2015 @ 4:45:55PM - copying ./templates/assets/js/Bandmaster.js to: ../users/qwerty/assets/js/Bandmaster.js
+03/30/2015 @ 4:45:55PM - creating directory: ../users/qwerty/assets/css
+03/30/2015 @ 4:45:55PM - copying ./templates/assets/css/style.css to: ../users/qwerty/assets/css/style.css
+03/30/2015 @ 4:45:55PM - creating directory: ../users/qwerty/assets/img
+03/30/2015 @ 4:45:55PM - copying images to: ../users/qwerty/assets/img
+
+03/30/2015 @ 4:49:47PM - Creating account: dave2
+03/30/2015 @ 4:49:47PM - creating directory: ../users/dave2
+03/30/2015 @ 4:49:47PM - copying ./templates/index.html to: ../users/dave2/index.html
+03/30/2015 @ 4:49:47PM - copying ./templates/functions.php to: ../users/dave2/functions.php
+03/30/2015 @ 4:49:47PM - copying ./templates/upload.php to: ../users/dave2/upload.php
+03/30/2015 @ 4:49:47PM - creating directory: ../users/dave2/uploads
+03/30/2015 @ 4:49:47PM - creating directory: ../users/dave2/JSON
+03/30/2015 @ 4:49:47PM - copying ./templates/JSON/settings.json to: ../users/dave2/JSON/settings.json
+03/30/2015 @ 4:49:47PM - copying ./templates/JSON/songs.json to: ../users/dave2/JSON/songs.json
+03/30/2015 @ 4:49:47PM - copying ./templates/JSON/taskList.json to: ../users/dave2/JSON/taskList.json
+03/30/2015 @ 4:49:47PM - creating directory: ../users/dave2/assets
+03/30/2015 @ 4:49:47PM - creating directory: ../users/dave2/assets/js
+03/30/2015 @ 4:49:47PM - copying ./templates/assets/js/Bandmaster.js to: ../users/dave2/assets/js/Bandmaster.js
+03/30/2015 @ 4:49:47PM - creating directory: ../users/dave2/assets/css
+03/30/2015 @ 4:49:47PM - copying ./templates/assets/css/style.css to: ../users/dave2/assets/css/style.css
+03/30/2015 @ 4:49:47PM - creating directory: ../users/dave2/assets/img
+03/30/2015 @ 4:49:47PM - copying images to: ../users/dave2/assets/img
+
+03/30/2015 @ 4:52:49PM - Creating account: jim1
+03/30/2015 @ 4:52:49PM - creating directory: ../users/jim1
+03/30/2015 @ 4:52:49PM - copying ./templates/index.html to: ../users/jim1/index.html
+03/30/2015 @ 4:52:49PM - copying ./templates/functions.php to: ../users/jim1/functions.php
+03/30/2015 @ 4:52:49PM - copying ./templates/upload.php to: ../users/jim1/upload.php
+03/30/2015 @ 4:52:49PM - creating directory: ../users/jim1/uploads
+03/30/2015 @ 4:52:49PM - creating directory: ../users/jim1/JSON
+03/30/2015 @ 4:52:49PM - copying ./templates/JSON/settings.json to: ../users/jim1/JSON/settings.json
+03/30/2015 @ 4:52:49PM - copying ./templates/JSON/songs.json to: ../users/jim1/JSON/songs.json
+03/30/2015 @ 4:52:49PM - copying ./templates/JSON/taskList.json to: ../users/jim1/JSON/taskList.json
+03/30/2015 @ 4:52:49PM - creating directory: ../users/jim1/assets
+03/30/2015 @ 4:52:49PM - creating directory: ../users/jim1/assets/js
+03/30/2015 @ 4:52:49PM - copying ./templates/assets/js/Bandmaster.js to: ../users/jim1/assets/js/Bandmaster.js
+03/30/2015 @ 4:52:49PM - creating directory: ../users/jim1/assets/css
+03/30/2015 @ 4:52:49PM - copying ./templates/assets/css/style.css to: ../users/jim1/assets/css/style.css
+03/30/2015 @ 4:52:49PM - creating directory: ../users/jim1/assets/img
+03/30/2015 @ 4:52:49PM - copying images to: ../users/jim1/assets/img
+
+03/30/2015 @ 4:54:41PM - Creating account: jim2
+03/30/2015 @ 4:54:41PM - creating directory: ../users/jim2
+03/30/2015 @ 4:54:41PM - copying ./templates/index.html to: ../users/jim2/index.html
+03/30/2015 @ 4:54:41PM - copying ./templates/functions.php to: ../users/jim2/functions.php
+03/30/2015 @ 4:54:41PM - copying ./templates/upload.php to: ../users/jim2/upload.php
+03/30/2015 @ 4:54:41PM - creating directory: ../users/jim2/uploads
+03/30/2015 @ 4:54:41PM - creating directory: ../users/jim2/JSON
+03/30/2015 @ 4:54:41PM - copying ./templates/JSON/settings.json to: ../users/jim2/JSON/settings.json
+03/30/2015 @ 4:54:41PM - copying ./templates/JSON/songs.json to: ../users/jim2/JSON/songs.json
+03/30/2015 @ 4:54:41PM - copying ./templates/JSON/taskList.json to: ../users/jim2/JSON/taskList.json
+03/30/2015 @ 4:54:41PM - creating directory: ../users/jim2/assets
+03/30/2015 @ 4:54:41PM - creating directory: ../users/jim2/assets/js
+03/30/2015 @ 4:54:41PM - copying ./templates/assets/js/Bandmaster.js to: ../users/jim2/assets/js/Bandmaster.js
+03/30/2015 @ 4:54:41PM - creating directory: ../users/jim2/assets/css
+03/30/2015 @ 4:54:41PM - copying ./templates/assets/css/style.css to: ../users/jim2/assets/css/style.css
+03/30/2015 @ 4:54:41PM - creating directory: ../users/jim2/assets/img
+03/30/2015 @ 4:54:41PM - copying images to: ../users/jim2/assets/img
+
+03/30/2015 @ 5:11:40PM - Creating account: jim3
+03/30/2015 @ 5:11:40PM - creating directory: ../users/jim3
+03/30/2015 @ 5:11:40PM - copying ./templates/index.html to: ../users/jim3/index.html
+03/30/2015 @ 5:11:40PM - copying ./templates/functions.php to: ../users/jim3/functions.php
+03/30/2015 @ 5:11:40PM - copying ./templates/upload.php to: ../users/jim3/upload.php
+03/30/2015 @ 5:11:40PM - creating directory: ../users/jim3/uploads
+03/30/2015 @ 5:11:40PM - creating directory: ../users/jim3/JSON
+03/30/2015 @ 5:11:40PM - copying ./templates/JSON/settings.json to: ../users/jim3/JSON/settings.json
+03/30/2015 @ 5:11:40PM - copying ./templates/JSON/songs.json to: ../users/jim3/JSON/songs.json
+03/30/2015 @ 5:11:40PM - copying ./templates/JSON/taskList.json to: ../users/jim3/JSON/taskList.json
+03/30/2015 @ 5:11:40PM - creating directory: ../users/jim3/assets
+03/30/2015 @ 5:11:40PM - creating directory: ../users/jim3/assets/js
+03/30/2015 @ 5:11:40PM - copying ./templates/assets/js/Bandmaster.js to: ../users/jim3/assets/js/Bandmaster.js
+03/30/2015 @ 5:11:40PM - creating directory: ../users/jim3/assets/css
+03/30/2015 @ 5:11:40PM - copying ./templates/assets/css/style.css to: ../users/jim3/assets/css/style.css
+03/30/2015 @ 5:11:40PM - creating directory: ../users/jim3/assets/img
+03/30/2015 @ 5:11:40PM - copying images to: ../users/jim3/assets/img
+
+03/30/2015 @ 5:13:38PM - Creating account: jim4
+03/30/2015 @ 5:13:38PM - creating directory: ../users/jim4
+03/30/2015 @ 5:13:38PM - copying ./templates/index.html to: ../users/jim4/index.html
+03/30/2015 @ 5:13:38PM - copying ./templates/functions.php to: ../users/jim4/functions.php
+03/30/2015 @ 5:13:38PM - copying ./templates/upload.php to: ../users/jim4/upload.php
+03/30/2015 @ 5:13:38PM - creating directory: ../users/jim4/uploads
+03/30/2015 @ 5:13:38PM - creating directory: ../users/jim4/JSON
+03/30/2015 @ 5:13:38PM - copying ./templates/JSON/settings.json to: ../users/jim4/JSON/settings.json
+03/30/2015 @ 5:13:38PM - copying ./templates/JSON/songs.json to: ../users/jim4/JSON/songs.json
+03/30/2015 @ 5:13:38PM - copying ./templates/JSON/taskList.json to: ../users/jim4/JSON/taskList.json
+03/30/2015 @ 5:13:38PM - creating directory: ../users/jim4/assets
+03/30/2015 @ 5:13:38PM - creating directory: ../users/jim4/assets/js
+03/30/2015 @ 5:13:38PM - copying ./templates/assets/js/Bandmaster.js to: ../users/jim4/assets/js/Bandmaster.js
+03/30/2015 @ 5:13:38PM - creating directory: ../users/jim4/assets/css
+03/30/2015 @ 5:13:38PM - copying ./templates/assets/css/style.css to: ../users/jim4/assets/css/style.css
+03/30/2015 @ 5:13:38PM - creating directory: ../users/jim4/assets/img
+03/30/2015 @ 5:13:38PM - copying images to: ../users/jim4/assets/img
+
+03/30/2015 @ 5:13:56PM - Creating account: jim5
+03/30/2015 @ 5:13:56PM - creating directory: ../users/jim5
+03/30/2015 @ 5:13:56PM - copying ./templates/index.html to: ../users/jim5/index.html
+03/30/2015 @ 5:13:56PM - copying ./templates/functions.php to: ../users/jim5/functions.php
+03/30/2015 @ 5:13:56PM - copying ./templates/upload.php to: ../users/jim5/upload.php
+03/30/2015 @ 5:13:56PM - creating directory: ../users/jim5/uploads
+03/30/2015 @ 5:13:56PM - creating directory: ../users/jim5/JSON
+03/30/2015 @ 5:13:56PM - copying ./templates/JSON/settings.json to: ../users/jim5/JSON/settings.json
+03/30/2015 @ 5:13:56PM - copying ./templates/JSON/songs.json to: ../users/jim5/JSON/songs.json
+03/30/2015 @ 5:13:56PM - copying ./templates/JSON/taskList.json to: ../users/jim5/JSON/taskList.json
+03/30/2015 @ 5:13:56PM - creating directory: ../users/jim5/assets
+03/30/2015 @ 5:13:56PM - creating directory: ../users/jim5/assets/js
+03/30/2015 @ 5:13:56PM - copying ./templates/assets/js/Bandmaster.js to: ../users/jim5/assets/js/Bandmaster.js
+03/30/2015 @ 5:13:56PM - creating directory: ../users/jim5/assets/css
+03/30/2015 @ 5:13:56PM - copying ./templates/assets/css/style.css to: ../users/jim5/assets/css/style.css
+03/30/2015 @ 5:13:56PM - creating directory: ../users/jim5/assets/img
+03/30/2015 @ 5:13:56PM - copying images to: ../users/jim5/assets/img
+
+03/30/2015 @ 5:17:18PM - Creating account: dave1
+03/30/2015 @ 5:17:18PM - creating directory: ../users/dave1
+03/30/2015 @ 5:17:18PM - copying ./templates/index.html to: ../users/dave1/index.html
+03/30/2015 @ 5:17:18PM - copying ./templates/functions.php to: ../users/dave1/functions.php
+03/30/2015 @ 5:17:18PM - copying ./templates/upload.php to: ../users/dave1/upload.php
+03/30/2015 @ 5:17:18PM - creating directory: ../users/dave1/uploads
+03/30/2015 @ 5:17:18PM - creating directory: ../users/dave1/JSON
+03/30/2015 @ 5:17:18PM - copying ./templates/JSON/settings.json to: ../users/dave1/JSON/settings.json
+03/30/2015 @ 5:17:18PM - copying ./templates/JSON/songs.json to: ../users/dave1/JSON/songs.json
+03/30/2015 @ 5:17:18PM - copying ./templates/JSON/taskList.json to: ../users/dave1/JSON/taskList.json
+03/30/2015 @ 5:17:18PM - creating directory: ../users/dave1/assets
+03/30/2015 @ 5:17:18PM - creating directory: ../users/dave1/assets/js
+03/30/2015 @ 5:17:18PM - copying ./templates/assets/js/Bandmaster.js to: ../users/dave1/assets/js/Bandmaster.js
+03/30/2015 @ 5:17:18PM - creating directory: ../users/dave1/assets/css
+03/30/2015 @ 5:17:18PM - copying ./templates/assets/css/style.css to: ../users/dave1/assets/css/style.css
+03/30/2015 @ 5:17:18PM - creating directory: ../users/dave1/assets/img
+03/30/2015 @ 5:17:18PM - copying images to: ../users/dave1/assets/img
+
+03/30/2015 @ 5:26:15PM - Creating account: dave2
+03/30/2015 @ 5:26:15PM - creating directory: ../users/dave2
+03/30/2015 @ 5:26:15PM - copying ./templates/index.html to: ../users/dave2/index.html
+03/30/2015 @ 5:26:15PM - copying ./templates/functions.php to: ../users/dave2/functions.php
+03/30/2015 @ 5:26:15PM - copying ./templates/upload.php to: ../users/dave2/upload.php
+03/30/2015 @ 5:26:15PM - creating directory: ../users/dave2/uploads
+03/30/2015 @ 5:26:15PM - creating directory: ../users/dave2/JSON
+03/30/2015 @ 5:26:15PM - copying ./templates/JSON/settings.json to: ../users/dave2/JSON/settings.json
+03/30/2015 @ 5:26:15PM - copying ./templates/JSON/songs.json to: ../users/dave2/JSON/songs.json
+03/30/2015 @ 5:26:15PM - copying ./templates/JSON/taskList.json to: ../users/dave2/JSON/taskList.json
+
+
+03/30/2015 @ 5:26:49PM - Creating account: dave3
+03/30/2015 @ 5:26:49PM - creating directory: ../users/dave3
+03/30/2015 @ 5:26:49PM - copying ./templates/index.html to: ../users/dave3/index.html
+03/30/2015 @ 5:26:49PM - copying ./templates/functions.php to: ../users/dave3/functions.php
+03/30/2015 @ 5:26:49PM - copying ./templates/upload.php to: ../users/dave3/upload.php
+03/30/2015 @ 5:26:49PM - creating directory: ../users/dave3/uploads
+03/30/2015 @ 5:26:49PM - creating directory: ../users/dave3/JSON
+03/30/2015 @ 5:26:49PM - copying ./templates/JSON/settings.json to: ../users/dave3/JSON/settings.json
+03/30/2015 @ 5:26:49PM - copying ./templates/JSON/songs.json to: ../users/dave3/JSON/songs.json
+03/30/2015 @ 5:26:49PM - copying ./templates/JSON/taskList.json to: ../users/dave3/JSON/taskList.json
+
+
+03/30/2015 @ 7:05:18PM - Creating account: dean
+03/30/2015 @ 7:05:18PM - creating directory: ../users/dean
+03/30/2015 @ 7:05:18PM - copying ./templates/index.html to: ../users/dean/index.html
+03/30/2015 @ 7:05:18PM - copying ./templates/functions.php to: ../users/dean/functions.php
+03/30/2015 @ 7:05:18PM - copying ./templates/upload.php to: ../users/dean/upload.php
+03/30/2015 @ 7:05:18PM - creating directory: ../users/dean/uploads
+03/30/2015 @ 7:05:18PM - creating directory: ../users/dean/JSON
+03/30/2015 @ 7:05:18PM - copying ./templates/JSON/settings.json to: ../users/dean/JSON/settings.json
+03/30/2015 @ 7:05:18PM - copying ./templates/JSON/songs.json to: ../users/dean/JSON/songs.json
+03/30/2015 @ 7:05:18PM - copying ./templates/JSON/taskList.json to: ../users/dean/JSON/taskList.json
+
+
+03/30/2015 @ 9:38:38PM - Creating account: dave123
+03/30/2015 @ 9:38:38PM - creating directory: ../users/dave123
+03/30/2015 @ 9:38:38PM - copying ./templates/index.html to: ../users/dave123/index.html
+03/30/2015 @ 9:38:38PM - copying ./templates/functions.php to: ../users/dave123/functions.php
+03/30/2015 @ 9:38:38PM - copying ./templates/upload.php to: ../users/dave123/upload.php
+03/30/2015 @ 9:38:38PM - creating directory: ../users/dave123/uploads
+03/30/2015 @ 9:38:38PM - creating directory: ../users/dave123/JSON
+03/30/2015 @ 9:38:38PM - copying ./templates/JSON/settings.json to: ../users/dave123/JSON/settings.json
+03/30/2015 @ 9:38:38PM - copying ./templates/JSON/songs.json to: ../users/dave123/JSON/songs.json
+03/30/2015 @ 9:38:38PM - copying ./templates/JSON/taskList.json to: ../users/dave123/JSON/taskList.json
+
+
+03/30/2015 @ 9:40:18PM - Creating account: dave5
+03/30/2015 @ 9:40:18PM - creating directory: ../users/dave5
+03/30/2015 @ 9:40:18PM - copying ./templates/index.html to: ../users/dave5/index.html
+03/30/2015 @ 9:40:18PM - copying ./templates/functions.php to: ../users/dave5/functions.php
+03/30/2015 @ 9:40:18PM - copying ./templates/upload.php to: ../users/dave5/upload.php
+03/30/2015 @ 9:40:18PM - creating directory: ../users/dave5/uploads
+03/30/2015 @ 9:40:18PM - creating directory: ../users/dave5/JSON
+03/30/2015 @ 9:40:18PM - copying ./templates/JSON/settings.json to: ../users/dave5/JSON/settings.json
+03/30/2015 @ 9:40:18PM - copying ./templates/JSON/songs.json to: ../users/dave5/JSON/songs.json
+03/30/2015 @ 9:40:18PM - copying ./templates/JSON/taskList.json to: ../users/dave5/JSON/taskList.json
+
+
+03/30/2015 @ 9:45:55PM - Creating account: dave7
+03/30/2015 @ 9:45:55PM - creating directory: ../users/dave7
+03/30/2015 @ 9:45:55PM - copying ./templates/index.html to: ../users/dave7/index.html
+03/30/2015 @ 9:45:55PM - copying ./templates/functions.php to: ../users/dave7/functions.php
+03/30/2015 @ 9:45:55PM - copying ./templates/upload.php to: ../users/dave7/upload.php
+03/30/2015 @ 9:45:55PM - creating directory: ../users/dave7/uploads
+03/30/2015 @ 9:45:55PM - creating directory: ../users/dave7/JSON
+03/30/2015 @ 9:45:55PM - copying ./templates/JSON/settings.json to: ../users/dave7/JSON/settings.json
+03/30/2015 @ 9:45:55PM - copying ./templates/JSON/songs.json to: ../users/dave7/JSON/songs.json
+03/30/2015 @ 9:45:55PM - copying ./templates/JSON/taskList.json to: ../users/dave7/JSON/taskList.json
+
+
+03/30/2015 @ 9:49:10PM - Creating account: lokicat1
+03/30/2015 @ 9:49:10PM - creating directory: ../users/lokicat1
+03/30/2015 @ 9:49:10PM - copying ./templates/index.html to: ../users/lokicat1/index.html
+03/30/2015 @ 9:49:10PM - copying ./templates/functions.php to: ../users/lokicat1/functions.php
+03/30/2015 @ 9:49:10PM - copying ./templates/upload.php to: ../users/lokicat1/upload.php
+03/30/2015 @ 9:49:10PM - creating directory: ../users/lokicat1/uploads
+03/30/2015 @ 9:49:10PM - creating directory: ../users/lokicat1/JSON
+03/30/2015 @ 9:49:10PM - copying ./templates/JSON/settings.json to: ../users/lokicat1/JSON/settings.json
+03/30/2015 @ 9:49:10PM - copying ./templates/JSON/songs.json to: ../users/lokicat1/JSON/songs.json
+03/30/2015 @ 9:49:10PM - copying ./templates/JSON/taskList.json to: ../users/lokicat1/JSON/taskList.json
+
+
+03/31/2015 @ 9:33:51AM - Creating account: asd
+03/31/2015 @ 9:33:51AM - creating directory: ../users/asd
+03/31/2015 @ 9:33:51AM - copying ./templates/index.html to: ../users/asd/index.html
+03/31/2015 @ 9:33:51AM - copying ./templates/functions.php to: ../users/asd/functions.php
+03/31/2015 @ 9:33:51AM - copying ./templates/upload.php to: ../users/asd/upload.php
+03/31/2015 @ 9:33:51AM - creating directory: ../users/asd/uploads
+03/31/2015 @ 9:33:51AM - creating directory: ../users/asd/JSON
+03/31/2015 @ 9:33:51AM - copying ./templates/JSON/settings.json to: ../users/asd/JSON/settings.json
+03/31/2015 @ 9:33:51AM - copying ./templates/JSON/songs.json to: ../users/asd/JSON/songs.json
+03/31/2015 @ 9:33:51AM - copying ./templates/JSON/taskList.json to: ../users/asd/JSON/taskList.json
+
+
+03/31/2015 @ 12:30:12PM - Creating account: test123
+03/31/2015 @ 12:30:12PM - creating directory: ../users/test123
+03/31/2015 @ 12:30:12PM - copying ./templates/index.html to: ../users/test123/index.html
+03/31/2015 @ 12:30:12PM - copying ./templates/functions.php to: ../users/test123/functions.php
+03/31/2015 @ 12:30:12PM - copying ./templates/upload.php to: ../users/test123/upload.php
+03/31/2015 @ 12:30:12PM - creating directory: ../users/test123/uploads
+03/31/2015 @ 12:30:12PM - creating directory: ../users/test123/JSON
+03/31/2015 @ 12:30:12PM - copying ./templates/JSON/settings.json to: ../users/test123/JSON/settings.json
+03/31/2015 @ 12:30:12PM - copying ./templates/JSON/songs.json to: ../users/test123/JSON/songs.json
+03/31/2015 @ 12:30:12PM - copying ./templates/JSON/taskList.json to: ../users/test123/JSON/taskList.json
+
+
+04/01/2015 @ 11:36:39AM - Creating account: test321
+04/01/2015 @ 11:36:39AM - creating directory: ../users/test321
+04/01/2015 @ 11:36:39AM - copying ./templates/index.html to: ../users/test321/index.html
+04/01/2015 @ 11:36:39AM - copying ./templates/functions.php to: ../users/test321/functions.php
+04/01/2015 @ 11:36:39AM - copying ./templates/upload.php to: ../users/test321/upload.php
+04/01/2015 @ 11:36:39AM - creating directory: ../users/test321/uploads
+04/01/2015 @ 11:36:39AM - creating directory: ../users/test321/JSON
+04/01/2015 @ 11:36:39AM - copying ./templates/JSON/settings.json to: ../users/test321/JSON/settings.json
+04/01/2015 @ 11:36:39AM - copying ./templates/JSON/songs.json to: ../users/test321/JSON/songs.json
+04/01/2015 @ 11:36:39AM - copying ./templates/JSON/taskList.json to: ../users/test321/JSON/taskList.json
+
+
+04/01/2015 @ 5:22:02PM - Creating account: dave123
+04/01/2015 @ 5:22:02PM - creating directory: ../users/dave123
+04/01/2015 @ 5:22:02PM - copying ./templates/index.html to: ../users/dave123/index.html
+04/01/2015 @ 5:22:02PM - copying ./templates/functions.php to: ../users/dave123/functions.php
+04/01/2015 @ 5:22:02PM - copying ./templates/upload.php to: ../users/dave123/upload.php
+04/01/2015 @ 5:22:02PM - creating directory: ../users/dave123/uploads
+04/01/2015 @ 5:22:02PM - creating directory: ../users/dave123/JSON
+04/01/2015 @ 5:22:02PM - copying ./templates/JSON/settings.json to: ../users/dave123/JSON/settings.json
+04/01/2015 @ 5:22:02PM - copying ./templates/JSON/songs.json to: ../users/dave123/JSON/songs.json
+04/01/2015 @ 5:22:02PM - copying ./templates/JSON/taskList.json to: ../users/dave123/JSON/taskList.json
+
+
+04/03/2015 @ 12:21:34PM - Creating account: bb
+04/03/2015 @ 12:21:34PM - creating directory: ../users/bb
+04/03/2015 @ 12:21:34PM - copying ./templates/index.html to: ../users/bb/index.html
+04/03/2015 @ 12:21:34PM - copying ./templates/functions.php to: ../users/bb/functions.php
+04/03/2015 @ 12:21:34PM - copying ./templates/upload.php to: ../users/bb/upload.php
+04/03/2015 @ 12:21:34PM - creating directory: ../users/bb/uploads
+04/03/2015 @ 12:21:34PM - creating directory: ../users/bb/JSON
+04/03/2015 @ 12:21:34PM - copying ./templates/JSON/settings.json to: ../users/bb/JSON/settings.json
+04/03/2015 @ 12:21:34PM - copying ./templates/JSON/songs.json to: ../users/bb/JSON/songs.json
+04/03/2015 @ 12:21:34PM - copying ./templates/JSON/taskList.json to: ../users/bb/JSON/taskList.json
+
+
+04/05/2015 @ 7:42:33PM - Creating account: nuds
+04/05/2015 @ 7:42:33PM - creating directory: ../users/nuds
+04/05/2015 @ 7:42:33PM - copying ./templates/index.html to: ../users/nuds/index.html
+04/05/2015 @ 7:42:33PM - copying ./templates/functions.php to: ../users/nuds/functions.php
+04/05/2015 @ 7:42:33PM - copying ./templates/upload.php to: ../users/nuds/upload.php
+04/05/2015 @ 7:42:33PM - creating directory: ../users/nuds/uploads
+04/05/2015 @ 7:42:33PM - creating directory: ../users/nuds/JSON
+04/05/2015 @ 7:42:33PM - copying ./templates/JSON/settings.json to: ../users/nuds/JSON/settings.json
+04/05/2015 @ 7:42:33PM - copying ./templates/JSON/songs.json to: ../users/nuds/JSON/songs.json
+04/05/2015 @ 7:42:33PM - copying ./templates/JSON/taskList.json to: ../users/nuds/JSON/taskList.json
+
+
+04/07/2015 @ 12:53:13PM - Creating account: jesse123
+04/07/2015 @ 12:53:13PM - creating directory: ../users/jesse123
+04/07/2015 @ 12:53:13PM - copying ./templates/index.html to: ../users/jesse123/index.html
+04/07/2015 @ 12:53:13PM - copying ./templates/functions.php to: ../users/jesse123/functions.php
+04/07/2015 @ 12:53:13PM - copying ./templates/upload.php to: ../users/jesse123/upload.php
+04/07/2015 @ 12:53:13PM - creating directory: ../users/jesse123/uploads
+04/07/2015 @ 12:53:13PM - creating directory: ../users/jesse123/JSON
+04/07/2015 @ 12:53:13PM - copying ./templates/JSON/settings.json to: ../users/jesse123/JSON/settings.json
+04/07/2015 @ 12:53:13PM - copying ./templates/JSON/songs.json to: ../users/jesse123/JSON/songs.json
+04/07/2015 @ 12:53:13PM - copying ./templates/JSON/taskList.json to: ../users/jesse123/JSON/taskList.json
+
+
+04/11/2015 @ 5:35:52PM - Creating account: johannah123
+04/11/2015 @ 5:35:52PM - creating directory: ../users/johannah123
+04/11/2015 @ 5:35:52PM - copying ./templates/index.html to: ../users/johannah123/index.html
+04/11/2015 @ 5:35:52PM - copying ./templates/functions.php to: ../users/johannah123/functions.php
+04/11/2015 @ 5:35:52PM - copying ./templates/upload.php to: ../users/johannah123/upload.php
+04/11/2015 @ 5:35:52PM - creating directory: ../users/johannah123/uploads
+04/11/2015 @ 5:35:52PM - creating directory: ../users/johannah123/JSON
+04/11/2015 @ 5:35:52PM - copying ./templates/JSON/settings.json to: ../users/johannah123/JSON/settings.json
+04/11/2015 @ 5:35:52PM - copying ./templates/JSON/songs.json to: ../users/johannah123/JSON/songs.json
+04/11/2015 @ 5:35:52PM - copying ./templates/JSON/taskList.json to: ../users/johannah123/JSON/taskList.json
+
+
+04/11/2015 @ 5:36:35PM - Creating account: test321321
+04/11/2015 @ 5:36:35PM - creating directory: ../users/test321321
+04/11/2015 @ 5:36:35PM - copying ./templates/index.html to: ../users/test321321/index.html
+04/11/2015 @ 5:36:35PM - copying ./templates/functions.php to: ../users/test321321/functions.php
+04/11/2015 @ 5:36:35PM - copying ./templates/upload.php to: ../users/test321321/upload.php
+04/11/2015 @ 5:36:35PM - creating directory: ../users/test321321/uploads
+04/11/2015 @ 5:36:35PM - creating directory: ../users/test321321/JSON
+04/11/2015 @ 5:36:35PM - copying ./templates/JSON/settings.json to: ../users/test321321/JSON/settings.json
+04/11/2015 @ 5:36:35PM - copying ./templates/JSON/songs.json to: ../users/test321321/JSON/songs.json
+04/11/2015 @ 5:36:35PM - copying ./templates/JSON/taskList.json to: ../users/test321321/JSON/taskList.json
+
+
+04/13/2015 @ 12:14:44PM - Creating account: dean
+04/13/2015 @ 12:14:44PM - creating directory: ../users/dean
+04/13/2015 @ 12:14:44PM - copying ./templates/index.html to: ../users/dean/index.html
+04/13/2015 @ 12:14:44PM - copying ./templates/functions.php to: ../users/dean/functions.php
+04/13/2015 @ 12:14:44PM - copying ./templates/upload.php to: ../users/dean/upload.php
+04/13/2015 @ 12:14:44PM - creating directory: ../users/dean/uploads
+04/13/2015 @ 12:14:44PM - creating directory: ../users/dean/JSON
+04/13/2015 @ 12:14:44PM - copying ./templates/JSON/settings.json to: ../users/dean/JSON/settings.json
+04/13/2015 @ 12:14:44PM - copying ./templates/JSON/songs.json to: ../users/dean/JSON/songs.json
+04/13/2015 @ 12:14:44PM - copying ./templates/JSON/taskList.json to: ../users/dean/JSON/taskList.json
+
+
+04/13/2015 @ 12:35:51PM - Creating account: dean
+04/13/2015 @ 12:35:51PM - creating directory: ../users/dean
+04/13/2015 @ 12:35:51PM - copying ./templates/index.html to: ../users/dean/index.html
+04/13/2015 @ 12:35:51PM - copying ./templates/functions.php to: ../users/dean/functions.php
+04/13/2015 @ 12:35:51PM - copying ./templates/upload.php to: ../users/dean/upload.php
+04/13/2015 @ 12:35:51PM - creating directory: ../users/dean/uploads
+04/13/2015 @ 12:35:51PM - creating directory: ../users/dean/JSON
+04/13/2015 @ 12:35:51PM - copying ./templates/JSON/settings.json to: ../users/dean/JSON/settings.json
+04/13/2015 @ 12:35:51PM - copying ./templates/JSON/songs.json to: ../users/dean/JSON/songs.json
+04/13/2015 @ 12:35:51PM - copying ./templates/JSON/taskList.json to: ../users/dean/JSON/taskList.json
+
+
+04/13/2015 @ 8:39:23PM - Creating account: dave123
+04/13/2015 @ 8:39:23PM - creating directory: ../users/dave123
+04/13/2015 @ 8:39:23PM - copying ./templates/index.html to: ../users/dave123/index.html
+04/13/2015 @ 8:39:23PM - copying ./templates/functions.php to: ../users/dave123/functions.php
+04/13/2015 @ 8:39:23PM - copying ./templates/upload.php to: ../users/dave123/upload.php
+04/13/2015 @ 8:39:23PM - creating directory: ../users/dave123/uploads
+04/13/2015 @ 8:39:23PM - creating directory: ../users/dave123/JSON
+04/13/2015 @ 8:39:23PM - copying ./templates/JSON/settings.json to: ../users/dave123/JSON/settings.json
+04/13/2015 @ 8:39:23PM - copying ./templates/JSON/songs.json to: ../users/dave123/JSON/songs.json
+04/13/2015 @ 8:39:23PM - copying ./templates/JSON/taskList.json to: ../users/dave123/JSON/taskList.json
+
+
+04/13/2015 @ 9:09:57PM - Creating account: paul
+04/13/2015 @ 9:09:57PM - creating directory: ../users/paul
+04/13/2015 @ 9:09:57PM - copying ./templates/index.html to: ../users/paul/index.html
+04/13/2015 @ 9:09:57PM - copying ./templates/functions.php to: ../users/paul/functions.php
+04/13/2015 @ 9:09:57PM - copying ./templates/upload.php to: ../users/paul/upload.php
+04/13/2015 @ 9:09:57PM - creating directory: ../users/paul/uploads
+04/13/2015 @ 9:09:57PM - creating directory: ../users/paul/JSON
+04/13/2015 @ 9:09:57PM - copying ./templates/JSON/settings.json to: ../users/paul/JSON/settings.json
+04/13/2015 @ 9:09:57PM - copying ./templates/JSON/songs.json to: ../users/paul/JSON/songs.json
+04/13/2015 @ 9:09:57PM - copying ./templates/JSON/taskList.json to: ../users/paul/JSON/taskList.json
+
+
+04/13/2015 @ 9:28:57PM - Creating account: dean
+04/13/2015 @ 9:28:57PM - creating directory: ../users/dean
+04/13/2015 @ 9:28:57PM - copying ./templates/index.html to: ../users/dean/index.html
+04/13/2015 @ 9:28:57PM - copying ./templates/functions.php to: ../users/dean/functions.php
+04/13/2015 @ 9:28:57PM - copying ./templates/upload.php to: ../users/dean/upload.php
+04/13/2015 @ 9:28:57PM - creating directory: ../users/dean/uploads
+04/13/2015 @ 9:28:57PM - creating directory: ../users/dean/JSON
+04/13/2015 @ 9:28:57PM - copying ./templates/JSON/settings.json to: ../users/dean/JSON/settings.json
+04/13/2015 @ 9:28:57PM - copying ./templates/JSON/songs.json to: ../users/dean/JSON/songs.json
+04/13/2015 @ 9:28:57PM - copying ./templates/JSON/taskList.json to: ../users/dean/JSON/taskList.json
+
+
+04/13/2015 @ 11:00:29PM - Creating account: doop
+04/13/2015 @ 11:00:29PM - creating directory: ../users/doop
+04/13/2015 @ 11:00:29PM - copying ./templates/index.html to: ../users/doop/index.html
+04/13/2015 @ 11:00:29PM - copying ./templates/functions.php to: ../users/doop/functions.php
+04/13/2015 @ 11:00:29PM - copying ./templates/upload.php to: ../users/doop/upload.php
+04/13/2015 @ 11:00:29PM - creating directory: ../users/doop/uploads
+04/13/2015 @ 11:00:29PM - creating directory: ../users/doop/JSON
+04/13/2015 @ 11:00:29PM - copying ./templates/JSON/settings.json to: ../users/doop/JSON/settings.json
+04/13/2015 @ 11:00:29PM - copying ./templates/JSON/songs.json to: ../users/doop/JSON/songs.json
+04/13/2015 @ 11:00:29PM - copying ./templates/JSON/taskList.json to: ../users/doop/JSON/taskList.json
+
+
+04/13/2015 @ 11:16:12PM - Creating account: 123
+04/13/2015 @ 11:16:12PM - creating directory: ../users/123
+04/13/2015 @ 11:16:12PM - copying ./templates/index.html to: ../users/123/index.html
+04/13/2015 @ 11:16:12PM - copying ./templates/functions.php to: ../users/123/functions.php
+04/13/2015 @ 11:16:12PM - copying ./templates/upload.php to: ../users/123/upload.php
+04/13/2015 @ 11:16:12PM - creating directory: ../users/123/uploads
+04/13/2015 @ 11:16:12PM - creating directory: ../users/123/JSON
+04/13/2015 @ 11:16:12PM - copying ./templates/JSON/settings.json to: ../users/123/JSON/settings.json
+04/13/2015 @ 11:16:12PM - copying ./templates/JSON/songs.json to: ../users/123/JSON/songs.json
+04/13/2015 @ 11:16:12PM - copying ./templates/JSON/taskList.json to: ../users/123/JSON/taskList.json
+
+
+04/13/2015 @ 11:16:23PM - Creating account: asd
+04/13/2015 @ 11:16:23PM - creating directory: ../users/asd
+04/13/2015 @ 11:16:23PM - copying ./templates/index.html to: ../users/asd/index.html
+04/13/2015 @ 11:16:23PM - copying ./templates/functions.php to: ../users/asd/functions.php
+04/13/2015 @ 11:16:23PM - copying ./templates/upload.php to: ../users/asd/upload.php
+04/13/2015 @ 11:16:23PM - creating directory: ../users/asd/uploads
+04/13/2015 @ 11:16:23PM - creating directory: ../users/asd/JSON
+04/13/2015 @ 11:16:23PM - copying ./templates/JSON/settings.json to: ../users/asd/JSON/settings.json
+04/13/2015 @ 11:16:23PM - copying ./templates/JSON/songs.json to: ../users/asd/JSON/songs.json
+04/13/2015 @ 11:16:23PM - copying ./templates/JSON/taskList.json to: ../users/asd/JSON/taskList.json
+
+
+04/13/2015 @ 11:18:51PM - Creating account: ddd
+04/13/2015 @ 11:18:51PM - creating directory: ./ddd
+04/13/2015 @ 11:18:51PM - copying ./templates/index.html to: ./ddd/index.html
+04/13/2015 @ 11:18:51PM - copying ./templates/functions.php to: ./ddd/functions.php
+04/13/2015 @ 11:18:51PM - copying ./templates/upload.php to: ./ddd/upload.php
+04/13/2015 @ 11:18:51PM - copying ./templates/submitEvent.php to: ./ddd/submitEvent.php
+04/13/2015 @ 11:18:51PM - copying ./templates/deleteEvent.php to: ./ddd/deleteEvent.php
+04/13/2015 @ 11:18:51PM - creating directory: ./ddd/uploads
+04/13/2015 @ 11:18:51PM - creating directory: ./ddd/JSON
+04/13/2015 @ 11:18:51PM - copying ./templates/JSON/settings.json to: ./ddd/JSON/settings.json
+04/13/2015 @ 11:18:51PM - copying ./templates/JSON/songs.json to: ./ddd/JSON/songs.json
+04/13/2015 @ 11:18:51PM - copying ./templates/JSON/taskList.json to: ./ddd/JSON/taskList.json
+04/13/2015 @ 11:18:51PM - copying ./templates/JSON/calendarBuildParameters.json to: ./ddd/JSON/calendarBuildParameters.json
+04/13/2015 @ 11:18:51PM - creating directory: ./ddd/assets
+04/13/2015 @ 11:18:51PM - creating directory: ./ddd/assets/js
+04/13/2015 @ 11:18:51PM - copying ./templates/assets/js/Bandmaster.js to: ./ddd/assets/js/Bandmaster.js
+04/13/2015 @ 11:18:51PM - creating directory: ./ddd/assets/css
+04/13/2015 @ 11:18:51PM - copying ./templates/assets/css/PKstyleV3.css to: ./ddd/assets/css/PKstyleV3.css
+04/13/2015 @ 11:18:51PM - creating directory: ./ddd/assets/img
+04/13/2015 @ 11:18:51PM - copying images to: ./ddd/assets/img
+
+04/13/2015 @ 11:20:35PM - Creating account: a
+04/13/2015 @ 11:20:35PM - creating directory: ../users/a
+04/13/2015 @ 11:20:35PM - copying ./templates/index.html to: ../users/a/index.html
+04/13/2015 @ 11:20:35PM - copying ./templates/functions.php to: ../users/a/functions.php
+04/13/2015 @ 11:20:35PM - copying ./templates/upload.php to: ../users/a/upload.php
+04/13/2015 @ 11:20:35PM - creating directory: ../users/a/uploads
+04/13/2015 @ 11:20:35PM - creating directory: ../users/a/JSON
+04/13/2015 @ 11:20:35PM - copying ./templates/JSON/settings.json to: ../users/a/JSON/settings.json
+04/13/2015 @ 11:20:35PM - copying ./templates/JSON/songs.json to: ../users/a/JSON/songs.json
+04/13/2015 @ 11:20:35PM - copying ./templates/JSON/taskList.json to: ../users/a/JSON/taskList.json
+
+
+04/13/2015 @ 11:23:29PM - Creating account: 561
+04/13/2015 @ 11:23:29PM - creating directory: ./561
+04/13/2015 @ 11:23:29PM - copying ./templates/index.html to: ./561/index.html
+04/13/2015 @ 11:23:29PM - copying ./templates/functions.php to: ./561/functions.php
+04/13/2015 @ 11:23:29PM - copying ./templates/upload.php to: ./561/upload.php
+04/13/2015 @ 11:23:29PM - copying ./templates/submitEvent.php to: ./561/submitEvent.php
+04/13/2015 @ 11:23:29PM - copying ./templates/deleteEvent.php to: ./561/deleteEvent.php
+04/13/2015 @ 11:23:29PM - creating directory: ./561/uploads
+04/13/2015 @ 11:23:29PM - creating directory: ./561/JSON
+04/13/2015 @ 11:23:29PM - copying ./templates/JSON/settings.json to: ./561/JSON/settings.json
+04/13/2015 @ 11:23:29PM - copying ./templates/JSON/songs.json to: ./561/JSON/songs.json
+04/13/2015 @ 11:23:29PM - copying ./templates/JSON/taskList.json to: ./561/JSON/taskList.json
+04/13/2015 @ 11:23:29PM - copying ./templates/JSON/calendarBuildParameters.json to: ./561/JSON/calendarBuildParameters.json
+04/13/2015 @ 11:23:29PM - creating directory: ./561/assets
+04/13/2015 @ 11:23:29PM - creating directory: ./561/assets/js
+04/13/2015 @ 11:23:29PM - copying ./templates/assets/js/Bandmaster.js to: ./561/assets/js/Bandmaster.js
+04/13/2015 @ 11:23:29PM - creating directory: ./561/assets/css
+04/13/2015 @ 11:23:29PM - copying ./templates/assets/css/PKstyleV3.css to: ./561/assets/css/PKstyleV3.css
+04/13/2015 @ 11:23:29PM - creating directory: ./561/assets/img
+04/13/2015 @ 11:23:29PM - copying images to: ./561/assets/img
+
+04/13/2015 @ 11:29:25PM - Creating account: d
+04/13/2015 @ 11:29:25PM - creating directory: ../users/d
+04/13/2015 @ 11:29:25PM - copying ./templates/index.html to: ../users/d/index.html
+04/13/2015 @ 11:29:25PM - copying ./templates/functions.php to: ../users/d/functions.php
+04/13/2015 @ 11:29:25PM - copying ./templates/upload.php to: ../users/d/upload.php
+04/13/2015 @ 11:29:25PM - creating directory: ../users/d/uploads
+04/13/2015 @ 11:29:25PM - creating directory: ../users/d/JSON
+04/13/2015 @ 11:29:25PM - copying ./templates/JSON/settings.json to: ../users/d/JSON/settings.json
+04/13/2015 @ 11:29:25PM - copying ./templates/JSON/songs.json to: ../users/d/JSON/songs.json
+04/13/2015 @ 11:29:25PM - copying ./templates/JSON/taskList.json to: ../users/d/JSON/taskList.json
+
+
+04/14/2015 @ 2:32:15AM - Creating account: 2
+04/14/2015 @ 2:32:15AM - creating directory: ../users/2
+04/14/2015 @ 2:32:15AM - copying ./templates/index.html to: ../users/2/index.html
+04/14/2015 @ 2:32:15AM - copying ./templates/functions.php to: ../users/2/functions.php
+04/14/2015 @ 2:32:15AM - copying ./templates/upload.php to: ../users/2/upload.php
+04/14/2015 @ 2:32:15AM - copying ./templates/submitEvent.php to: ../users/2/submitEvent.php
+04/14/2015 @ 2:32:15AM - copying ./templates/deleteEvent.php to: ../users/2/deleteEvent.php
+04/14/2015 @ 2:32:15AM - creating directory: ../users/2/uploads
+04/14/2015 @ 2:32:15AM - creating directory: ../users/2/JSON
+04/14/2015 @ 2:32:15AM - copying ./templates/JSON/settings.json to: ../users/2/JSON/settings.json
+04/14/2015 @ 2:32:15AM - copying ./templates/JSON/songs.json to: ../users/2/JSON/songs.json
+04/14/2015 @ 2:32:15AM - copying ./templates/JSON/taskList.json to: ../users/2/JSON/taskList.json
+04/14/2015 @ 2:32:15AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/2/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 2:36:15AM - Creating account: 526
+04/14/2015 @ 2:36:15AM - creating directory: ../users/526
+04/14/2015 @ 2:36:15AM - copying ./templates/index.html to: ../users/526/index.html
+04/14/2015 @ 2:36:15AM - copying ./templates/functions.php to: ../users/526/functions.php
+04/14/2015 @ 2:36:15AM - copying ./templates/upload.php to: ../users/526/upload.php
+04/14/2015 @ 2:36:15AM - copying ./templates/submitEvent.php to: ../users/526/submitEvent.php
+04/14/2015 @ 2:36:15AM - copying ./templates/deleteEvent.php to: ../users/526/deleteEvent.php
+04/14/2015 @ 2:36:15AM - creating directory: ../users/526/uploads
+04/14/2015 @ 2:36:15AM - creating directory: ../users/526/JSON
+04/14/2015 @ 2:36:15AM - copying ./templates/JSON/settings.json to: ../users/526/JSON/settings.json
+04/14/2015 @ 2:36:15AM - copying ./templates/JSON/songs.json to: ../users/526/JSON/songs.json
+04/14/2015 @ 2:36:15AM - copying ./templates/JSON/taskList.json to: ../users/526/JSON/taskList.json
+04/14/2015 @ 2:36:15AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/526/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 2:38:36AM - Creating account: add
+04/14/2015 @ 2:38:36AM - creating directory: ../users/add
+04/14/2015 @ 2:38:36AM - copying ./templates/index.html to: ../users/add/index.html
+04/14/2015 @ 2:38:36AM - copying ./templates/functions.php to: ../users/add/functions.php
+04/14/2015 @ 2:38:36AM - copying ./templates/upload.php to: ../users/add/upload.php
+04/14/2015 @ 2:38:36AM - copying ./templates/submitEvent.php to: ../users/add/submitEvent.php
+04/14/2015 @ 2:38:36AM - copying ./templates/deleteEvent.php to: ../users/add/deleteEvent.php
+04/14/2015 @ 2:38:36AM - creating directory: ../users/add/uploads
+04/14/2015 @ 2:38:36AM - creating directory: ../users/add/JSON
+04/14/2015 @ 2:38:36AM - copying ./templates/JSON/settings.json to: ../users/add/JSON/settings.json
+04/14/2015 @ 2:38:36AM - copying ./templates/JSON/songs.json to: ../users/add/JSON/songs.json
+04/14/2015 @ 2:38:36AM - copying ./templates/JSON/taskList.json to: ../users/add/JSON/taskList.json
+04/14/2015 @ 2:38:36AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/add/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 2:39:03AM - Creating account: 233
+04/14/2015 @ 2:39:03AM - creating directory: ../users/233
+04/14/2015 @ 2:39:03AM - copying ./templates/index.html to: ../users/233/index.html
+04/14/2015 @ 2:39:03AM - copying ./templates/functions.php to: ../users/233/functions.php
+04/14/2015 @ 2:39:03AM - copying ./templates/upload.php to: ../users/233/upload.php
+04/14/2015 @ 2:39:03AM - copying ./templates/submitEvent.php to: ../users/233/submitEvent.php
+04/14/2015 @ 2:39:03AM - copying ./templates/deleteEvent.php to: ../users/233/deleteEvent.php
+04/14/2015 @ 2:39:03AM - creating directory: ../users/233/uploads
+04/14/2015 @ 2:39:03AM - creating directory: ../users/233/JSON
+04/14/2015 @ 2:39:03AM - copying ./templates/JSON/settings.json to: ../users/233/JSON/settings.json
+04/14/2015 @ 2:39:03AM - copying ./templates/JSON/songs.json to: ../users/233/JSON/songs.json
+04/14/2015 @ 2:39:03AM - copying ./templates/JSON/taskList.json to: ../users/233/JSON/taskList.json
+04/14/2015 @ 2:39:03AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/233/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 2:44:40AM - Creating account: u
+04/14/2015 @ 2:44:40AM - creating directory: ../users/u
+04/14/2015 @ 2:44:40AM - copying ./templates/index.html to: ../users/u/index.html
+04/14/2015 @ 2:44:40AM - copying ./templates/functions.php to: ../users/u/functions.php
+04/14/2015 @ 2:44:40AM - copying ./templates/upload.php to: ../users/u/upload.php
+04/14/2015 @ 2:44:40AM - copying ./templates/submitEvent.php to: ../users/u/submitEvent.php
+04/14/2015 @ 2:44:40AM - copying ./templates/deleteEvent.php to: ../users/u/deleteEvent.php
+04/14/2015 @ 2:44:40AM - creating directory: ../users/u/uploads
+04/14/2015 @ 2:44:40AM - creating directory: ../users/u/JSON
+04/14/2015 @ 2:44:40AM - copying ./templates/JSON/settings.json to: ../users/u/JSON/settings.json
+04/14/2015 @ 2:44:40AM - copying ./templates/JSON/songs.json to: ../users/u/JSON/songs.json
+04/14/2015 @ 2:44:40AM - copying ./templates/JSON/taskList.json to: ../users/u/JSON/taskList.json
+04/14/2015 @ 2:44:40AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/u/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 11:55:11AM - Creating account: us
+04/14/2015 @ 11:55:11AM - creating directory: ../users/us
+04/14/2015 @ 11:55:11AM - copying ./templates/index.html to: ../users/us/index.html
+04/14/2015 @ 11:55:11AM - copying ./templates/functions.php to: ../users/us/functions.php
+04/14/2015 @ 11:55:11AM - copying ./templates/upload.php to: ../users/us/upload.php
+04/14/2015 @ 11:55:11AM - copying ./templates/submitEvent.php to: ../users/us/submitEvent.php
+04/14/2015 @ 11:55:11AM - copying ./templates/deleteEvent.php to: ../users/us/deleteEvent.php
+04/14/2015 @ 11:55:11AM - creating directory: ../users/us/uploads
+04/14/2015 @ 11:55:11AM - creating directory: ../users/us/JSON
+04/14/2015 @ 11:55:11AM - copying ./templates/JSON/settings.json to: ../users/us/JSON/settings.json
+04/14/2015 @ 11:55:11AM - copying ./templates/JSON/songs.json to: ../users/us/JSON/songs.json
+04/14/2015 @ 11:55:11AM - copying ./templates/JSON/taskList.json to: ../users/us/JSON/taskList.json
+04/14/2015 @ 11:55:11AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/us/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 12:00:35PM - Creating account: ar2
+04/14/2015 @ 12:00:35PM - creating directory: ../users/ar2
+04/14/2015 @ 12:00:35PM - copying ./templates/index.html to: ../users/ar2/index.html
+04/14/2015 @ 12:00:35PM - copying ./templates/functions.php to: ../users/ar2/functions.php
+04/14/2015 @ 12:00:35PM - copying ./templates/upload.php to: ../users/ar2/upload.php
+04/14/2015 @ 12:00:35PM - copying ./templates/submitEvent.php to: ../users/ar2/submitEvent.php
+04/14/2015 @ 12:00:35PM - copying ./templates/deleteEvent.php to: ../users/ar2/deleteEvent.php
+04/14/2015 @ 12:00:35PM - creating directory: ../users/ar2/uploads
+04/14/2015 @ 12:00:35PM - creating directory: ../users/ar2/JSON
+04/14/2015 @ 12:00:35PM - copying ./templates/JSON/settings.json to: ../users/ar2/JSON/settings.json
+04/14/2015 @ 12:00:35PM - copying ./templates/JSON/songs.json to: ../users/ar2/JSON/songs.json
+04/14/2015 @ 12:00:35PM - copying ./templates/JSON/taskList.json to: ../users/ar2/JSON/taskList.json
+04/14/2015 @ 12:00:35PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/ar2/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 12:01:55PM - Creating account: 11
+04/14/2015 @ 12:01:55PM - creating directory: ../users/11
+04/14/2015 @ 12:01:55PM - copying ./templates/index.html to: ../users/11/index.html
+04/14/2015 @ 12:01:55PM - copying ./templates/functions.php to: ../users/11/functions.php
+04/14/2015 @ 12:01:55PM - copying ./templates/upload.php to: ../users/11/upload.php
+04/14/2015 @ 12:01:55PM - copying ./templates/submitEvent.php to: ../users/11/submitEvent.php
+04/14/2015 @ 12:01:55PM - copying ./templates/deleteEvent.php to: ../users/11/deleteEvent.php
+04/14/2015 @ 12:01:55PM - creating directory: ../users/11/uploads
+04/14/2015 @ 12:01:55PM - creating directory: ../users/11/JSON
+04/14/2015 @ 12:01:55PM - copying ./templates/JSON/settings.json to: ../users/11/JSON/settings.json
+04/14/2015 @ 12:01:55PM - copying ./templates/JSON/songs.json to: ../users/11/JSON/songs.json
+04/14/2015 @ 12:01:55PM - copying ./templates/JSON/taskList.json to: ../users/11/JSON/taskList.json
+04/14/2015 @ 12:01:55PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/11/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 12:06:18PM - Creating account: 222
+04/14/2015 @ 12:06:18PM - creating directory: ../users/222
+04/14/2015 @ 12:06:18PM - copying ./templates/index.html to: ../users/222/index.html
+04/14/2015 @ 12:06:18PM - copying ./templates/functions.php to: ../users/222/functions.php
+04/14/2015 @ 12:06:18PM - copying ./templates/upload.php to: ../users/222/upload.php
+04/14/2015 @ 12:06:18PM - copying ./templates/submitEvent.php to: ../users/222/submitEvent.php
+04/14/2015 @ 12:06:18PM - copying ./templates/deleteEvent.php to: ../users/222/deleteEvent.php
+04/14/2015 @ 12:06:18PM - creating directory: ../users/222/uploads
+04/14/2015 @ 12:06:18PM - creating directory: ../users/222/JSON
+04/14/2015 @ 12:06:18PM - copying ./templates/JSON/settings.json to: ../users/222/JSON/settings.json
+04/14/2015 @ 12:06:18PM - copying ./templates/JSON/songs.json to: ../users/222/JSON/songs.json
+04/14/2015 @ 12:06:18PM - copying ./templates/JSON/taskList.json to: ../users/222/JSON/taskList.json
+04/14/2015 @ 12:06:18PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/222/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 12:08:14PM - Creating account: 1
+04/14/2015 @ 12:08:14PM - creating directory: ../users/1
+04/14/2015 @ 12:08:14PM - copying ./templates/index.html to: ../users/1/index.html
+04/14/2015 @ 12:08:14PM - copying ./templates/functions.php to: ../users/1/functions.php
+04/14/2015 @ 12:08:14PM - copying ./templates/upload.php to: ../users/1/upload.php
+04/14/2015 @ 12:08:14PM - copying ./templates/submitEvent.php to: ../users/1/submitEvent.php
+04/14/2015 @ 12:08:14PM - copying ./templates/deleteEvent.php to: ../users/1/deleteEvent.php
+04/14/2015 @ 12:08:14PM - creating directory: ../users/1/uploads
+04/14/2015 @ 12:08:14PM - creating directory: ../users/1/JSON
+04/14/2015 @ 12:08:14PM - copying ./templates/JSON/settings.json to: ../users/1/JSON/settings.json
+04/14/2015 @ 12:08:14PM - copying ./templates/JSON/songs.json to: ../users/1/JSON/songs.json
+04/14/2015 @ 12:08:14PM - copying ./templates/JSON/taskList.json to: ../users/1/JSON/taskList.json
+04/14/2015 @ 12:08:14PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/1/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 12:39:15PM - Creating account: dean
+04/14/2015 @ 12:39:15PM - creating directory: ../users/dean
+04/14/2015 @ 12:39:15PM - copying ./templates/index.html to: ../users/dean/index.html
+04/14/2015 @ 12:39:15PM - copying ./templates/functions.php to: ../users/dean/functions.php
+04/14/2015 @ 12:39:15PM - copying ./templates/upload.php to: ../users/dean/upload.php
+04/14/2015 @ 12:39:15PM - copying ./templates/submitEvent.php to: ../users/dean/submitEvent.php
+04/14/2015 @ 12:39:15PM - copying ./templates/deleteEvent.php to: ../users/dean/deleteEvent.php
+04/14/2015 @ 12:39:15PM - creating directory: ../users/dean/uploads
+04/14/2015 @ 12:39:15PM - creating directory: ../users/dean/JSON
+04/14/2015 @ 12:39:15PM - copying ./templates/JSON/settings.json to: ../users/dean/JSON/settings.json
+04/14/2015 @ 12:39:15PM - copying ./templates/JSON/songs.json to: ../users/dean/JSON/songs.json
+04/14/2015 @ 12:39:15PM - copying ./templates/JSON/taskList.json to: ../users/dean/JSON/taskList.json
+04/14/2015 @ 12:39:15PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dean/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 12:41:33PM - Creating account: BrendanFazio
+04/14/2015 @ 12:41:33PM - creating directory: ../users/BrendanFazio
+04/14/2015 @ 12:41:33PM - copying ./templates/index.html to: ../users/BrendanFazio/index.html
+04/14/2015 @ 12:41:33PM - copying ./templates/functions.php to: ../users/BrendanFazio/functions.php
+04/14/2015 @ 12:41:33PM - copying ./templates/upload.php to: ../users/BrendanFazio/upload.php
+04/14/2015 @ 12:41:33PM - copying ./templates/submitEvent.php to: ../users/BrendanFazio/submitEvent.php
+04/14/2015 @ 12:41:33PM - copying ./templates/deleteEvent.php to: ../users/BrendanFazio/deleteEvent.php
+04/14/2015 @ 12:41:33PM - creating directory: ../users/BrendanFazio/uploads
+04/14/2015 @ 12:41:33PM - creating directory: ../users/BrendanFazio/JSON
+04/14/2015 @ 12:41:33PM - copying ./templates/JSON/settings.json to: ../users/BrendanFazio/JSON/settings.json
+04/14/2015 @ 12:41:33PM - copying ./templates/JSON/songs.json to: ../users/BrendanFazio/JSON/songs.json
+04/14/2015 @ 12:41:33PM - copying ./templates/JSON/taskList.json to: ../users/BrendanFazio/JSON/taskList.json
+04/14/2015 @ 12:41:33PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/BrendanFazio/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 12:53:34PM - Creating account: mark
+04/14/2015 @ 12:53:34PM - creating directory: ../users/mark
+04/14/2015 @ 12:53:34PM - copying ./templates/index.html to: ../users/mark/index.html
+04/14/2015 @ 12:53:34PM - copying ./templates/functions.php to: ../users/mark/functions.php
+04/14/2015 @ 12:53:34PM - copying ./templates/upload.php to: ../users/mark/upload.php
+04/14/2015 @ 12:53:34PM - copying ./templates/submitEvent.php to: ../users/mark/submitEvent.php
+04/14/2015 @ 12:53:34PM - copying ./templates/deleteEvent.php to: ../users/mark/deleteEvent.php
+04/14/2015 @ 12:53:34PM - creating directory: ../users/mark/uploads
+04/14/2015 @ 12:53:34PM - creating directory: ../users/mark/JSON
+04/14/2015 @ 12:53:34PM - copying ./templates/JSON/settings.json to: ../users/mark/JSON/settings.json
+04/14/2015 @ 12:53:34PM - copying ./templates/JSON/songs.json to: ../users/mark/JSON/songs.json
+04/14/2015 @ 12:53:34PM - copying ./templates/JSON/taskList.json to: ../users/mark/JSON/taskList.json
+04/14/2015 @ 12:53:34PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/mark/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 1:04:53PM - Creating account: test
+04/14/2015 @ 1:04:53PM - creating directory: ../users/test
+04/14/2015 @ 1:04:53PM - copying ./templates/index.html to: ../users/test/index.html
+04/14/2015 @ 1:04:53PM - copying ./templates/functions.php to: ../users/test/functions.php
+04/14/2015 @ 1:04:53PM - copying ./templates/upload.php to: ../users/test/upload.php
+04/14/2015 @ 1:04:53PM - copying ./templates/submitEvent.php to: ../users/test/submitEvent.php
+04/14/2015 @ 1:04:53PM - copying ./templates/deleteEvent.php to: ../users/test/deleteEvent.php
+04/14/2015 @ 1:04:53PM - creating directory: ../users/test/uploads
+04/14/2015 @ 1:04:53PM - creating directory: ../users/test/JSON
+04/14/2015 @ 1:04:53PM - copying ./templates/JSON/settings.json to: ../users/test/JSON/settings.json
+04/14/2015 @ 1:04:53PM - copying ./templates/JSON/songs.json to: ../users/test/JSON/songs.json
+04/14/2015 @ 1:04:53PM - copying ./templates/JSON/taskList.json to: ../users/test/JSON/taskList.json
+04/14/2015 @ 1:04:53PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 1:18:25PM - Creating account: test123
+04/14/2015 @ 1:18:25PM - creating directory: ../users/test123
+04/14/2015 @ 1:18:25PM - copying ./templates/index.html to: ../users/test123/index.html
+04/14/2015 @ 1:18:25PM - copying ./templates/functions.php to: ../users/test123/functions.php
+04/14/2015 @ 1:18:25PM - copying ./templates/upload.php to: ../users/test123/upload.php
+04/14/2015 @ 1:18:25PM - copying ./templates/submitEvent.php to: ../users/test123/submitEvent.php
+04/14/2015 @ 1:18:25PM - copying ./templates/deleteEvent.php to: ../users/test123/deleteEvent.php
+04/14/2015 @ 1:18:25PM - creating directory: ../users/test123/uploads
+04/14/2015 @ 1:18:25PM - creating directory: ../users/test123/JSON
+04/14/2015 @ 1:18:25PM - copying ./templates/JSON/settings.json to: ../users/test123/JSON/settings.json
+04/14/2015 @ 1:18:25PM - copying ./templates/JSON/songs.json to: ../users/test123/JSON/songs.json
+04/14/2015 @ 1:18:25PM - copying ./templates/JSON/taskList.json to: ../users/test123/JSON/taskList.json
+04/14/2015 @ 1:18:25PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test123/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 1:28:15PM - Creating account: kcarcia
+04/14/2015 @ 1:28:15PM - creating directory: ../users/kcarcia
+04/14/2015 @ 1:28:15PM - copying ./templates/index.html to: ../users/kcarcia/index.html
+04/14/2015 @ 1:28:15PM - copying ./templates/functions.php to: ../users/kcarcia/functions.php
+04/14/2015 @ 1:28:15PM - copying ./templates/upload.php to: ../users/kcarcia/upload.php
+04/14/2015 @ 1:28:15PM - copying ./templates/submitEvent.php to: ../users/kcarcia/submitEvent.php
+04/14/2015 @ 1:28:15PM - copying ./templates/deleteEvent.php to: ../users/kcarcia/deleteEvent.php
+04/14/2015 @ 1:28:15PM - creating directory: ../users/kcarcia/uploads
+04/14/2015 @ 1:28:15PM - creating directory: ../users/kcarcia/JSON
+04/14/2015 @ 1:28:15PM - copying ./templates/JSON/settings.json to: ../users/kcarcia/JSON/settings.json
+04/14/2015 @ 1:28:15PM - copying ./templates/JSON/songs.json to: ../users/kcarcia/JSON/songs.json
+04/14/2015 @ 1:28:15PM - copying ./templates/JSON/taskList.json to: ../users/kcarcia/JSON/taskList.json
+04/14/2015 @ 1:28:15PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/kcarcia/JSON/calendarBuildParameters.json
+
+
+04/14/2015 @ 1:37:44PM - Creating account: kate-carcia
+04/14/2015 @ 1:37:44PM - creating directory: ../users/kate-carcia
+04/14/2015 @ 1:37:44PM - copying ./templates/index.html to: ../users/kate-carcia/index.html
+04/14/2015 @ 1:37:44PM - copying ./templates/functions.php to: ../users/kate-carcia/functions.php
+04/14/2015 @ 1:37:44PM - copying ./templates/upload.php to: ../users/kate-carcia/upload.php
+04/14/2015 @ 1:37:44PM - copying ./templates/submitEvent.php to: ../users/kate-carcia/submitEvent.php
+04/14/2015 @ 1:37:44PM - copying ./templates/deleteEvent.php to: ../users/kate-carcia/deleteEvent.php
+04/14/2015 @ 1:37:44PM - creating directory: ../users/kate-carcia/uploads
+04/14/2015 @ 1:37:44PM - creating directory: ../users/kate-carcia/JSON
+04/14/2015 @ 1:37:44PM - copying ./templates/JSON/settings.json to: ../users/kate-carcia/JSON/settings.json
+04/14/2015 @ 1:37:44PM - copying ./templates/JSON/songs.json to: ../users/kate-carcia/JSON/songs.json
+04/14/2015 @ 1:37:44PM - copying ./templates/JSON/taskList.json to: ../users/kate-carcia/JSON/taskList.json
+04/14/2015 @ 1:37:44PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/kate-carcia/JSON/calendarBuildParameters.json
+
+
+04/18/2015 @ 10:17:11PM - Creating account: dave123
+04/18/2015 @ 10:17:11PM - creating directory: ../users/dave123
+04/18/2015 @ 10:17:11PM - copying ./templates/index.html to: ../users/dave123/index.html
+04/18/2015 @ 10:17:11PM - copying ./templates/functions.php to: ../users/dave123/functions.php
+04/18/2015 @ 10:17:11PM - copying ./templates/upload.php to: ../users/dave123/upload.php
+04/18/2015 @ 10:17:11PM - copying ./templates/submitEvent.php to: ../users/dave123/submitEvent.php
+04/18/2015 @ 10:17:11PM - copying ./templates/deleteEvent.php to: ../users/dave123/deleteEvent.php
+04/18/2015 @ 10:17:11PM - creating directory: ../users/dave123/uploads
+04/18/2015 @ 10:17:11PM - creating directory: ../users/dave123/JSON
+04/18/2015 @ 10:17:11PM - copying ./templates/JSON/settings.json to: ../users/dave123/JSON/settings.json
+04/18/2015 @ 10:17:11PM - copying ./templates/JSON/songs.json to: ../users/dave123/JSON/songs.json
+04/18/2015 @ 10:17:11PM - copying ./templates/JSON/taskList.json to: ../users/dave123/JSON/taskList.json
+04/18/2015 @ 10:17:11PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dave123/JSON/calendarBuildParameters.json
+
+
+04/18/2015 @ 10:21:20PM - Creating account: dave3
+04/18/2015 @ 10:21:20PM - creating directory: ../users/dave3
+04/18/2015 @ 10:21:20PM - copying ./templates/index.html to: ../users/dave3/index.html
+04/18/2015 @ 10:21:20PM - copying ./templates/functions.php to: ../users/dave3/functions.php
+04/18/2015 @ 10:21:20PM - copying ./templates/upload.php to: ../users/dave3/upload.php
+04/18/2015 @ 10:21:20PM - copying ./templates/submitEvent.php to: ../users/dave3/submitEvent.php
+04/18/2015 @ 10:21:20PM - copying ./templates/deleteEvent.php to: ../users/dave3/deleteEvent.php
+04/18/2015 @ 10:21:20PM - creating directory: ../users/dave3/uploads
+04/18/2015 @ 10:21:20PM - creating directory: ../users/dave3/JSON
+04/18/2015 @ 10:21:20PM - copying ./templates/JSON/settings.json to: ../users/dave3/JSON/settings.json
+04/18/2015 @ 10:21:20PM - copying ./templates/JSON/songs.json to: ../users/dave3/JSON/songs.json
+04/18/2015 @ 10:21:20PM - copying ./templates/JSON/taskList.json to: ../users/dave3/JSON/taskList.json
+04/18/2015 @ 10:21:20PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dave3/JSON/calendarBuildParameters.json
+
+
+04/19/2015 @ 11:30:40AM - Creating account: test123
+04/19/2015 @ 11:30:40AM - creating directory: ../users/test123
+04/19/2015 @ 11:30:40AM - copying ./templates/index.html to: ../users/test123/index.html
+04/19/2015 @ 11:30:40AM - copying ./templates/functions.php to: ../users/test123/functions.php
+04/19/2015 @ 11:30:40AM - copying ./templates/upload.php to: ../users/test123/upload.php
+04/19/2015 @ 11:30:40AM - copying ./templates/submitEvent.php to: ../users/test123/submitEvent.php
+04/19/2015 @ 11:30:40AM - copying ./templates/deleteEvent.php to: ../users/test123/deleteEvent.php
+04/19/2015 @ 11:30:40AM - creating directory: ../users/test123/uploads
+04/19/2015 @ 11:30:40AM - creating directory: ../users/test123/JSON
+04/19/2015 @ 11:30:40AM - copying ./templates/JSON/settings.json to: ../users/test123/JSON/settings.json
+04/19/2015 @ 11:30:40AM - copying ./templates/JSON/songs.json to: ../users/test123/JSON/songs.json
+04/19/2015 @ 11:30:40AM - copying ./templates/JSON/taskList.json to: ../users/test123/JSON/taskList.json
+04/19/2015 @ 11:30:40AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test123/JSON/calendarBuildParameters.json
+
+
+04/19/2015 @ 12:53:04PM - Creating account: 11
+04/19/2015 @ 12:53:04PM - creating directory: ../users/11
+04/19/2015 @ 12:53:04PM - copying ./templates/index.html to: ../users/11/index.html
+04/19/2015 @ 12:53:04PM - copying ./templates/functions.php to: ../users/11/functions.php
+04/19/2015 @ 12:53:04PM - copying ./templates/upload.php to: ../users/11/upload.php
+04/19/2015 @ 12:53:04PM - copying ./templates/submitEvent.php to: ../users/11/submitEvent.php
+04/19/2015 @ 12:53:04PM - copying ./templates/deleteEvent.php to: ../users/11/deleteEvent.php
+04/19/2015 @ 12:53:04PM - creating directory: ../users/11/uploads
+04/19/2015 @ 12:53:04PM - creating directory: ../users/11/JSON
+04/19/2015 @ 12:53:04PM - copying ./templates/JSON/settings.json to: ../users/11/JSON/settings.json
+04/19/2015 @ 12:53:04PM - copying ./templates/JSON/songs.json to: ../users/11/JSON/songs.json
+04/19/2015 @ 12:53:04PM - copying ./templates/JSON/taskList.json to: ../users/11/JSON/taskList.json
+04/19/2015 @ 12:53:04PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/11/JSON/calendarBuildParameters.json
+
+
+04/19/2015 @ 10:53:04PM - Creating account: dave2
+04/19/2015 @ 10:53:04PM - creating directory: ../users/dave2
+04/19/2015 @ 10:53:04PM - copying ./templates/index.html to: ../users/dave2/index.html
+04/19/2015 @ 10:53:04PM - copying ./templates/functions.php to: ../users/dave2/functions.php
+04/19/2015 @ 10:53:04PM - copying ./templates/upload.php to: ../users/dave2/upload.php
+04/19/2015 @ 10:53:04PM - copying ./templates/submitEvent.php to: ../users/dave2/submitEvent.php
+04/19/2015 @ 10:53:04PM - copying ./templates/deleteEvent.php to: ../users/dave2/deleteEvent.php
+04/19/2015 @ 10:53:04PM - creating directory: ../users/dave2/uploads
+04/19/2015 @ 10:53:04PM - creating directory: ../users/dave2/JSON
+04/19/2015 @ 10:53:04PM - copying ./templates/JSON/settings.json to: ../users/dave2/JSON/settings.json
+04/19/2015 @ 10:53:04PM - copying ./templates/JSON/songs.json to: ../users/dave2/JSON/songs.json
+04/19/2015 @ 10:53:04PM - copying ./templates/JSON/taskList.json to: ../users/dave2/JSON/taskList.json
+04/19/2015 @ 10:53:04PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dave2/JSON/calendarBuildParameters.json
+
+
+04/20/2015 @ 12:53:23AM - Creating account: 12
+04/20/2015 @ 12:53:23AM - creating directory: ../users/12
+04/20/2015 @ 12:53:23AM - copying ./templates/index.html to: ../users/12/index.html
+04/20/2015 @ 12:53:23AM - copying ./templates/functions.php to: ../users/12/functions.php
+04/20/2015 @ 12:53:23AM - copying ./templates/upload.php to: ../users/12/upload.php
+04/20/2015 @ 12:53:23AM - copying ./templates/submitEvent.php to: ../users/12/submitEvent.php
+04/20/2015 @ 12:53:23AM - copying ./templates/deleteEvent.php to: ../users/12/deleteEvent.php
+04/20/2015 @ 12:53:23AM - creating directory: ../users/12/uploads
+04/20/2015 @ 12:53:23AM - creating directory: ../users/12/JSON
+04/20/2015 @ 12:53:23AM - copying ./templates/JSON/settings.json to: ../users/12/JSON/settings.json
+04/20/2015 @ 12:53:23AM - copying ./templates/JSON/songs.json to: ../users/12/JSON/songs.json
+04/20/2015 @ 12:53:23AM - copying ./templates/JSON/taskList.json to: ../users/12/JSON/taskList.json
+04/20/2015 @ 12:53:23AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/12/JSON/calendarBuildParameters.json
+
+
+04/20/2015 @ 9:22:01AM - Creating account: dave5
+04/20/2015 @ 9:22:01AM - creating directory: ../users/dave5
+04/20/2015 @ 9:22:01AM - copying ./templates/index.html to: ../users/dave5/index.html
+04/20/2015 @ 9:22:01AM - copying ./templates/functions.php to: ../users/dave5/functions.php
+04/20/2015 @ 9:22:01AM - copying ./templates/upload.php to: ../users/dave5/upload.php
+04/20/2015 @ 9:22:01AM - copying ./templates/submitEvent.php to: ../users/dave5/submitEvent.php
+04/20/2015 @ 9:22:01AM - copying ./templates/deleteEvent.php to: ../users/dave5/deleteEvent.php
+04/20/2015 @ 9:22:01AM - creating directory: ../users/dave5/uploads
+04/20/2015 @ 9:22:01AM - creating directory: ../users/dave5/JSON
+04/20/2015 @ 9:22:01AM - copying ./templates/JSON/settings.json to: ../users/dave5/JSON/settings.json
+04/20/2015 @ 9:22:01AM - copying ./templates/JSON/songs.json to: ../users/dave5/JSON/songs.json
+04/20/2015 @ 9:22:01AM - copying ./templates/JSON/taskList.json to: ../users/dave5/JSON/taskList.json
+04/20/2015 @ 9:22:01AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dave5/JSON/calendarBuildParameters.json
+
+
+04/21/2015 @ 1:39:28PM - Creating account: dave123
+04/21/2015 @ 1:39:28PM - creating directory: ../users/dave123
+04/21/2015 @ 1:39:28PM - copying ./templates/index.html to: ../users/dave123/index.html
+04/21/2015 @ 1:39:28PM - copying ./templates/functions.php to: ../users/dave123/functions.php
+04/21/2015 @ 1:39:28PM - copying ./templates/upload.php to: ../users/dave123/upload.php
+04/21/2015 @ 1:39:28PM - copying ./templates/submitEvent.php to: ../users/dave123/submitEvent.php
+04/21/2015 @ 1:39:28PM - copying ./templates/deleteEvent.php to: ../users/dave123/deleteEvent.php
+04/21/2015 @ 1:39:28PM - creating directory: ../users/dave123/uploads
+04/21/2015 @ 1:39:28PM - creating directory: ../users/dave123/JSON
+04/21/2015 @ 1:39:28PM - copying ./templates/JSON/settings.json to: ../users/dave123/JSON/settings.json
+04/21/2015 @ 1:39:28PM - copying ./templates/JSON/songs.json to: ../users/dave123/JSON/songs.json
+04/21/2015 @ 1:39:28PM - copying ./templates/JSON/taskList.json to: ../users/dave123/JSON/taskList.json
+04/21/2015 @ 1:39:28PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dave123/JSON/calendarBuildParameters.json
+
+
+04/24/2015 @ 7:37:08PM - Creating account: dave6
+04/24/2015 @ 7:37:08PM - creating directory: ../users/dave6
+04/24/2015 @ 7:37:08PM - copying ./templates/index.html to: ../users/dave6/index.html
+04/24/2015 @ 7:37:08PM - copying ./templates/functions.php to: ../users/dave6/functions.php
+04/24/2015 @ 7:37:08PM - copying ./templates/upload.php to: ../users/dave6/upload.php
+04/24/2015 @ 7:37:08PM - copying ./templates/submitEvent.php to: ../users/dave6/submitEvent.php
+04/24/2015 @ 7:37:08PM - copying ./templates/deleteEvent.php to: ../users/dave6/deleteEvent.php
+04/24/2015 @ 7:37:08PM - creating directory: ../users/dave6/uploads
+04/24/2015 @ 7:37:08PM - creating directory: ../users/dave6/JSON
+04/24/2015 @ 7:37:08PM - copying ./templates/JSON/settings.json to: ../users/dave6/JSON/settings.json
+04/24/2015 @ 7:37:09PM - copying ./templates/JSON/songs.json to: ../users/dave6/JSON/songs.json
+04/24/2015 @ 7:37:09PM - copying ./templates/JSON/taskList.json to: ../users/dave6/JSON/taskList.json
+04/24/2015 @ 7:37:09PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dave6/JSON/calendarBuildParameters.json
+
+
+04/26/2015 @ 10:02:39AM - Creating account: dean2
+04/26/2015 @ 10:02:39AM - creating directory: ../users/dean2
+04/26/2015 @ 10:02:39AM - copying ./templates/index.html to: ../users/dean2/index.html
+04/26/2015 @ 10:02:39AM - copying ./templates/functions.php to: ../users/dean2/functions.php
+04/26/2015 @ 10:02:39AM - copying ./templates/upload.php to: ../users/dean2/upload.php
+04/26/2015 @ 10:02:39AM - copying ./templates/submitEvent.php to: ../users/dean2/submitEvent.php
+04/26/2015 @ 10:02:39AM - copying ./templates/deleteEvent.php to: ../users/dean2/deleteEvent.php
+04/26/2015 @ 10:02:39AM - creating directory: ../users/dean2/uploads
+04/26/2015 @ 10:02:39AM - creating directory: ../users/dean2/JSON
+04/26/2015 @ 10:02:39AM - copying ./templates/JSON/settings.json to: ../users/dean2/JSON/settings.json
+04/26/2015 @ 10:02:39AM - copying ./templates/JSON/songs.json to: ../users/dean2/JSON/songs.json
+04/26/2015 @ 10:02:39AM - copying ./templates/JSON/taskList.json to: ../users/dean2/JSON/taskList.json
+04/26/2015 @ 10:02:39AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dean2/JSON/calendarBuildParameters.json
+
+
+04/26/2015 @ 2:07:16PM - Creating account: dean
+04/26/2015 @ 2:07:16PM - creating directory: ../users/dean
+04/26/2015 @ 2:07:16PM - copying ./templates/index.html to: ../users/dean/index.html
+04/26/2015 @ 2:07:16PM - copying ./templates/functions.php to: ../users/dean/functions.php
+04/26/2015 @ 2:07:16PM - copying ./templates/upload.php to: ../users/dean/upload.php
+04/26/2015 @ 2:07:16PM - copying ./templates/submitEvent.php to: ../users/dean/submitEvent.php
+04/26/2015 @ 2:07:16PM - copying ./templates/deleteEvent.php to: ../users/dean/deleteEvent.php
+04/26/2015 @ 2:07:16PM - creating directory: ../users/dean/uploads
+04/26/2015 @ 2:07:16PM - creating directory: ../users/dean/JSON
+04/26/2015 @ 2:07:16PM - copying ./templates/JSON/settings.json to: ../users/dean/JSON/settings.json
+04/26/2015 @ 2:07:16PM - copying ./templates/JSON/songs.json to: ../users/dean/JSON/songs.json
+04/26/2015 @ 2:07:16PM - copying ./templates/JSON/taskList.json to: ../users/dean/JSON/taskList.json
+04/26/2015 @ 2:07:16PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dean/JSON/calendarBuildParameters.json
+
+
+04/26/2015 @ 2:08:37PM - Creating account: test123
+04/26/2015 @ 2:08:37PM - creating directory: ../users/test123
+04/26/2015 @ 2:08:37PM - copying ./templates/index.html to: ../users/test123/index.html
+04/26/2015 @ 2:08:37PM - copying ./templates/functions.php to: ../users/test123/functions.php
+04/26/2015 @ 2:08:37PM - copying ./templates/upload.php to: ../users/test123/upload.php
+04/26/2015 @ 2:08:37PM - copying ./templates/submitEvent.php to: ../users/test123/submitEvent.php
+04/26/2015 @ 2:08:37PM - copying ./templates/deleteEvent.php to: ../users/test123/deleteEvent.php
+04/26/2015 @ 2:08:37PM - creating directory: ../users/test123/uploads
+04/26/2015 @ 2:08:37PM - creating directory: ../users/test123/JSON
+04/26/2015 @ 2:08:37PM - copying ./templates/JSON/settings.json to: ../users/test123/JSON/settings.json
+04/26/2015 @ 2:08:37PM - copying ./templates/JSON/songs.json to: ../users/test123/JSON/songs.json
+04/26/2015 @ 2:08:37PM - copying ./templates/JSON/taskList.json to: ../users/test123/JSON/taskList.json
+04/26/2015 @ 2:08:37PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test123/JSON/calendarBuildParameters.json
+
+
+04/26/2015 @ 6:59:42PM - Creating account: 2
+04/26/2015 @ 6:59:42PM - creating directory: ../users/2
+04/26/2015 @ 6:59:42PM - copying ./templates/index.html to: ../users/2/index.html
+04/26/2015 @ 6:59:42PM - copying ./templates/functions.php to: ../users/2/functions.php
+04/26/2015 @ 6:59:42PM - copying ./templates/upload.php to: ../users/2/upload.php
+04/26/2015 @ 6:59:42PM - copying ./templates/submitEvent.php to: ../users/2/submitEvent.php
+04/26/2015 @ 6:59:42PM - copying ./templates/deleteEvent.php to: ../users/2/deleteEvent.php
+04/26/2015 @ 6:59:42PM - creating directory: ../users/2/uploads
+04/26/2015 @ 6:59:42PM - creating directory: ../users/2/JSON
+04/26/2015 @ 6:59:42PM - copying ./templates/JSON/settings.json to: ../users/2/JSON/settings.json
+04/26/2015 @ 6:59:42PM - copying ./templates/JSON/songs.json to: ../users/2/JSON/songs.json
+04/26/2015 @ 6:59:42PM - copying ./templates/JSON/taskList.json to: ../users/2/JSON/taskList.json
+04/26/2015 @ 6:59:42PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/2/JSON/calendarBuildParameters.json
+
+
+04/26/2015 @ 7:27:22PM - Creating account: test5
+04/26/2015 @ 7:27:22PM - creating directory: ../users/test5
+04/26/2015 @ 7:27:22PM - copying ./templates/index.html to: ../users/test5/index.html
+04/26/2015 @ 7:27:22PM - copying ./templates/functions.php to: ../users/test5/functions.php
+04/26/2015 @ 7:27:22PM - copying ./templates/upload.php to: ../users/test5/upload.php
+04/26/2015 @ 7:27:22PM - creating directory: ../users/test5/uploads
+04/26/2015 @ 7:27:22PM - creating directory: ../users/test5/JSON
+04/26/2015 @ 7:27:22PM - copying ./templates/JSON/settings.json to: ../users/test5/JSON/settings.json
+04/26/2015 @ 7:27:22PM - copying ./templates/JSON/songs.json to: ../users/test5/JSON/songs.json
+04/26/2015 @ 7:27:22PM - copying ./templates/JSON/taskList.json to: ../users/test5/JSON/taskList.json
+04/26/2015 @ 7:27:22PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test5/JSON/calendarBuildParameters.json
+
+
+04/26/2015 @ 7:30:06PM - Creating account: test6
+04/26/2015 @ 7:30:06PM - creating directory: ../users/test6
+04/26/2015 @ 7:30:06PM - copying ./templates/index.html to: ../users/test6/index.html
+04/26/2015 @ 7:30:06PM - copying ./templates/functions.php to: ../users/test6/functions.php
+04/26/2015 @ 7:30:06PM - copying ./templates/upload.php to: ../users/test6/upload.php
+04/26/2015 @ 7:30:06PM - creating directory: ../users/test6/uploads
+04/26/2015 @ 7:30:06PM - creating directory: ../users/test6/JSON
+04/26/2015 @ 7:30:06PM - copying ./templates/JSON/settings.json to: ../users/test6/JSON/settings.json
+04/26/2015 @ 7:30:06PM - copying ./templates/JSON/songs.json to: ../users/test6/JSON/songs.json
+04/26/2015 @ 7:30:06PM - copying ./templates/JSON/taskList.json to: ../users/test6/JSON/taskList.json
+04/26/2015 @ 7:30:06PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test6/JSON/calendarBuildParameters.json
+
+
+04/26/2015 @ 7:40:57PM - Creating account: test1
+04/26/2015 @ 7:40:57PM - creating directory: ../users/test1
+04/26/2015 @ 7:40:57PM - copying ./templates/index.html to: ../users/test1/index.html
+04/26/2015 @ 7:40:57PM - copying ./templates/functions.php to: ../users/test1/functions.php
+04/26/2015 @ 7:40:57PM - copying ./templates/upload.php to: ../users/test1/upload.php
+04/26/2015 @ 7:40:57PM - creating directory: ../users/test1/uploads
+04/26/2015 @ 7:40:57PM - creating directory: ../users/test1/JSON
+04/26/2015 @ 7:40:57PM - copying ./templates/JSON/settings.json to: ../users/test1/JSON/settings.json
+04/26/2015 @ 7:40:57PM - copying ./templates/JSON/songs.json to: ../users/test1/JSON/songs.json
+04/26/2015 @ 7:40:57PM - copying ./templates/JSON/taskList.json to: ../users/test1/JSON/taskList.json
+04/26/2015 @ 7:40:57PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test1/JSON/calendarBuildParameters.json
+
+
+04/26/2015 @ 7:42:01PM - Creating account: test2
+04/26/2015 @ 7:42:01PM - creating directory: ../users/test2
+04/26/2015 @ 7:42:01PM - copying ./templates/index.html to: ../users/test2/index.html
+04/26/2015 @ 7:42:01PM - copying ./templates/functions.php to: ../users/test2/functions.php
+04/26/2015 @ 7:42:01PM - copying ./templates/upload.php to: ../users/test2/upload.php
+04/26/2015 @ 7:42:01PM - creating directory: ../users/test2/uploads
+04/26/2015 @ 7:42:01PM - creating directory: ../users/test2/JSON
+04/26/2015 @ 7:42:01PM - copying ./templates/JSON/settings.json to: ../users/test2/JSON/settings.json
+04/26/2015 @ 7:42:01PM - copying ./templates/JSON/songs.json to: ../users/test2/JSON/songs.json
+04/26/2015 @ 7:42:01PM - copying ./templates/JSON/taskList.json to: ../users/test2/JSON/taskList.json
+04/26/2015 @ 7:42:01PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test2/JSON/calendarBuildParameters.json
+
+
+04/26/2015 @ 8:43:13PM - Creating account: test3
+04/26/2015 @ 8:43:13PM - creating directory: ../users/test3
+04/26/2015 @ 8:43:13PM - copying ./templates/index.html to: ../users/test3/index.html
+04/26/2015 @ 8:43:13PM - copying ./templates/functions.php to: ../users/test3/functions.php
+04/26/2015 @ 8:43:13PM - copying ./templates/upload.php to: ../users/test3/upload.php
+04/26/2015 @ 8:43:13PM - creating directory: ../users/test3/uploads
+04/26/2015 @ 8:43:13PM - creating directory: ../users/test3/JSON
+04/26/2015 @ 8:43:13PM - copying ./templates/JSON/settings.json to: ../users/test3/JSON/settings.json
+04/26/2015 @ 8:43:13PM - copying ./templates/JSON/songs.json to: ../users/test3/JSON/songs.json
+04/26/2015 @ 8:43:13PM - copying ./templates/JSON/taskList.json to: ../users/test3/JSON/taskList.json
+04/26/2015 @ 8:43:13PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test3/JSON/calendarBuildParameters.json
+
+
+04/26/2015 @ 10:18:46PM - Creating account: 3
+04/26/2015 @ 10:18:46PM - creating directory: ../users/3
+04/26/2015 @ 10:18:46PM - copying ./templates/index.html to: ../users/3/index.html
+04/26/2015 @ 10:18:46PM - copying ./templates/functions.php to: ../users/3/functions.php
+04/26/2015 @ 10:18:46PM - copying ./templates/upload.php to: ../users/3/upload.php
+04/26/2015 @ 10:18:46PM - creating directory: ../users/3/uploads
+04/26/2015 @ 10:18:46PM - creating directory: ../users/3/JSON
+04/26/2015 @ 10:18:46PM - copying ./templates/JSON/settings.json to: ../users/3/JSON/settings.json
+04/26/2015 @ 10:18:46PM - copying ./templates/JSON/songs.json to: ../users/3/JSON/songs.json
+04/26/2015 @ 10:18:46PM - copying ./templates/JSON/taskList.json to: ../users/3/JSON/taskList.json
+04/26/2015 @ 10:18:46PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/3/JSON/calendarBuildParameters.json
+
+
+04/26/2015 @ 11:07:19PM - Creating account: testagain
+04/26/2015 @ 11:07:19PM - creating directory: ../users/testagain
+04/26/2015 @ 11:07:19PM - copying ./templates/index.html to: ../users/testagain/index.html
+04/26/2015 @ 11:07:19PM - copying ./templates/functions.php to: ../users/testagain/functions.php
+04/26/2015 @ 11:07:19PM - copying ./templates/upload.php to: ../users/testagain/upload.php
+04/26/2015 @ 11:07:19PM - creating directory: ../users/testagain/uploads
+04/26/2015 @ 11:07:19PM - creating directory: ../users/testagain/JSON
+04/26/2015 @ 11:07:19PM - copying ./templates/JSON/settings.json to: ../users/testagain/JSON/settings.json
+04/26/2015 @ 11:07:19PM - copying ./templates/JSON/songs.json to: ../users/testagain/JSON/songs.json
+04/26/2015 @ 11:07:19PM - copying ./templates/JSON/taskList.json to: ../users/testagain/JSON/taskList.json
+04/26/2015 @ 11:07:19PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/testagain/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 11:42:43AM - Creating account: test321
+04/27/2015 @ 11:42:43AM - creating directory: ../users/test321
+04/27/2015 @ 11:42:43AM - copying ./templates/index.html to: ../users/test321/index.html
+04/27/2015 @ 11:42:43AM - copying ./templates/functions.php to: ../users/test321/functions.php
+04/27/2015 @ 11:42:43AM - copying ./templates/upload.php to: ../users/test321/upload.php
+04/27/2015 @ 11:42:43AM - creating directory: ../users/test321/uploads
+04/27/2015 @ 11:42:43AM - creating directory: ../users/test321/JSON
+04/27/2015 @ 11:42:43AM - copying ./templates/JSON/settings.json to: ../users/test321/JSON/settings.json
+04/27/2015 @ 11:42:43AM - copying ./templates/JSON/songs.json to: ../users/test321/JSON/songs.json
+04/27/2015 @ 11:42:43AM - copying ./templates/JSON/taskList.json to: ../users/test321/JSON/taskList.json
+04/27/2015 @ 11:42:43AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test321/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 11:43:18AM - Creating account: dean2
+04/27/2015 @ 11:43:18AM - creating directory: ../users/dean2
+04/27/2015 @ 11:43:18AM - copying ./templates/index.html to: ../users/dean2/index.html
+04/27/2015 @ 11:43:18AM - copying ./templates/functions.php to: ../users/dean2/functions.php
+04/27/2015 @ 11:43:18AM - copying ./templates/upload.php to: ../users/dean2/upload.php
+04/27/2015 @ 11:43:18AM - creating directory: ../users/dean2/uploads
+04/27/2015 @ 11:43:18AM - creating directory: ../users/dean2/JSON
+04/27/2015 @ 11:43:18AM - copying ./templates/JSON/settings.json to: ../users/dean2/JSON/settings.json
+04/27/2015 @ 11:43:18AM - copying ./templates/JSON/songs.json to: ../users/dean2/JSON/songs.json
+04/27/2015 @ 11:43:18AM - copying ./templates/JSON/taskList.json to: ../users/dean2/JSON/taskList.json
+04/27/2015 @ 11:43:18AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dean2/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 2:02:17PM - Creating account: roy
+04/27/2015 @ 2:02:17PM - creating directory: ../users/roy
+04/27/2015 @ 2:02:17PM - copying ./templates/index.html to: ../users/roy/index.html
+04/27/2015 @ 2:02:17PM - copying ./templates/functions.php to: ../users/roy/functions.php
+04/27/2015 @ 2:02:17PM - copying ./templates/upload.php to: ../users/roy/upload.php
+04/27/2015 @ 2:02:17PM - creating directory: ../users/roy/uploads
+04/27/2015 @ 2:02:17PM - creating directory: ../users/roy/JSON
+04/27/2015 @ 2:02:17PM - copying ./templates/JSON/settings.json to: ../users/roy/JSON/settings.json
+04/27/2015 @ 2:02:17PM - copying ./templates/JSON/songs.json to: ../users/roy/JSON/songs.json
+04/27/2015 @ 2:02:17PM - copying ./templates/JSON/taskList.json to: ../users/roy/JSON/taskList.json
+04/27/2015 @ 2:02:17PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/roy/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 3:01:31PM - Creating account: 4
+04/27/2015 @ 3:01:31PM - creating directory: ../users/4
+04/27/2015 @ 3:01:31PM - copying ./templates/index.html to: ../users/4/index.html
+04/27/2015 @ 3:01:31PM - copying ./templates/functions.php to: ../users/4/functions.php
+04/27/2015 @ 3:01:31PM - copying ./templates/upload.php to: ../users/4/upload.php
+04/27/2015 @ 3:01:31PM - creating directory: ../users/4/uploads
+04/27/2015 @ 3:01:31PM - creating directory: ../users/4/JSON
+04/27/2015 @ 3:01:31PM - copying ./templates/JSON/settings.json to: ../users/4/JSON/settings.json
+04/27/2015 @ 3:01:31PM - copying ./templates/JSON/songs.json to: ../users/4/JSON/songs.json
+04/27/2015 @ 3:01:31PM - copying ./templates/JSON/taskList.json to: ../users/4/JSON/taskList.json
+04/27/2015 @ 3:01:31PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/4/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 3:15:40PM - Creating account: dean3
+04/27/2015 @ 3:15:40PM - creating directory: ../users/dean3
+04/27/2015 @ 3:15:40PM - copying ./templates/index.html to: ../users/dean3/index.html
+04/27/2015 @ 3:15:40PM - copying ./templates/functions.php to: ../users/dean3/functions.php
+04/27/2015 @ 3:15:40PM - copying ./templates/upload.php to: ../users/dean3/upload.php
+04/27/2015 @ 3:15:40PM - creating directory: ../users/dean3/uploads
+04/27/2015 @ 3:15:40PM - creating directory: ../users/dean3/JSON
+04/27/2015 @ 3:15:40PM - copying ./templates/JSON/settings.json to: ../users/dean3/JSON/settings.json
+04/27/2015 @ 3:15:40PM - copying ./templates/JSON/songs.json to: ../users/dean3/JSON/songs.json
+04/27/2015 @ 3:15:40PM - copying ./templates/JSON/taskList.json to: ../users/dean3/JSON/taskList.json
+04/27/2015 @ 3:15:40PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dean3/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 3:25:36PM - Creating account: test4321
+04/27/2015 @ 3:25:36PM - creating directory: ../users/test4321
+04/27/2015 @ 3:25:36PM - copying ./templates/index.html to: ../users/test4321/index.html
+04/27/2015 @ 3:25:36PM - copying ./templates/functions.php to: ../users/test4321/functions.php
+04/27/2015 @ 3:25:36PM - copying ./templates/upload.php to: ../users/test4321/upload.php
+04/27/2015 @ 3:25:36PM - creating directory: ../users/test4321/uploads
+04/27/2015 @ 3:25:36PM - creating directory: ../users/test4321/JSON
+04/27/2015 @ 3:25:36PM - copying ./templates/JSON/settings.json to: ../users/test4321/JSON/settings.json
+04/27/2015 @ 3:25:36PM - copying ./templates/JSON/songs.json to: ../users/test4321/JSON/songs.json
+04/27/2015 @ 3:25:36PM - copying ./templates/JSON/taskList.json to: ../users/test4321/JSON/taskList.json
+04/27/2015 @ 3:25:36PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test4321/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 4:03:06PM - Creating account: 5
+04/27/2015 @ 4:03:06PM - creating directory: ../users/5
+04/27/2015 @ 4:03:06PM - copying ./templates/index.html to: ../users/5/index.html
+04/27/2015 @ 4:03:06PM - copying ./templates/functions.php to: ../users/5/functions.php
+04/27/2015 @ 4:03:06PM - copying ./templates/upload.php to: ../users/5/upload.php
+04/27/2015 @ 4:03:06PM - creating directory: ../users/5/uploads
+04/27/2015 @ 4:03:06PM - creating directory: ../users/5/JSON
+04/27/2015 @ 4:03:06PM - copying ./templates/JSON/settings.json to: ../users/5/JSON/settings.json
+04/27/2015 @ 4:03:06PM - copying ./templates/JSON/songs.json to: ../users/5/JSON/songs.json
+04/27/2015 @ 4:03:06PM - copying ./templates/JSON/taskList.json to: ../users/5/JSON/taskList.json
+04/27/2015 @ 4:03:06PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/5/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 4:05:37PM - Creating account: 7
+04/27/2015 @ 4:05:37PM - creating directory: ../users/7
+04/27/2015 @ 4:05:37PM - copying ./templates/index.html to: ../users/7/index.html
+04/27/2015 @ 4:05:37PM - copying ./templates/functions.php to: ../users/7/functions.php
+04/27/2015 @ 4:05:37PM - copying ./templates/upload.php to: ../users/7/upload.php
+04/27/2015 @ 4:05:37PM - creating directory: ../users/7/uploads
+04/27/2015 @ 4:05:37PM - creating directory: ../users/7/JSON
+04/27/2015 @ 4:05:37PM - copying ./templates/JSON/settings.json to: ../users/7/JSON/settings.json
+04/27/2015 @ 4:05:37PM - copying ./templates/JSON/songs.json to: ../users/7/JSON/songs.json
+04/27/2015 @ 4:05:37PM - copying ./templates/JSON/taskList.json to: ../users/7/JSON/taskList.json
+04/27/2015 @ 4:05:37PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/7/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 4:39:54PM - Creating account: test123
+04/27/2015 @ 4:39:54PM - creating directory: ../users/test123
+04/27/2015 @ 4:39:54PM - copying ./templates/index.html to: ../users/test123/index.html
+04/27/2015 @ 4:39:54PM - copying ./templates/functions.php to: ../users/test123/functions.php
+04/27/2015 @ 4:39:54PM - copying ./templates/upload.php to: ../users/test123/upload.php
+04/27/2015 @ 4:39:54PM - creating directory: ../users/test123/uploads
+04/27/2015 @ 4:39:54PM - creating directory: ../users/test123/JSON
+04/27/2015 @ 4:39:54PM - copying ./templates/JSON/settings.json to: ../users/test123/JSON/settings.json
+04/27/2015 @ 4:39:54PM - copying ./templates/JSON/songs.json to: ../users/test123/JSON/songs.json
+04/27/2015 @ 4:39:54PM - copying ./templates/JSON/taskList.json to: ../users/test123/JSON/taskList.json
+04/27/2015 @ 4:39:54PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test123/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 5:08:02PM - Creating account: admin
+04/27/2015 @ 5:08:02PM - creating directory: ../users/admin
+04/27/2015 @ 5:08:02PM - copying ./templates/index.html to: ../users/admin/index.html
+04/27/2015 @ 5:08:02PM - copying ./templates/functions.php to: ../users/admin/functions.php
+04/27/2015 @ 5:08:02PM - copying ./templates/upload.php to: ../users/admin/upload.php
+04/27/2015 @ 5:08:02PM - creating directory: ../users/admin/uploads
+04/27/2015 @ 5:08:02PM - creating directory: ../users/admin/JSON
+04/27/2015 @ 5:08:02PM - copying ./templates/JSON/settings.json to: ../users/admin/JSON/settings.json
+04/27/2015 @ 5:08:02PM - copying ./templates/JSON/songs.json to: ../users/admin/JSON/songs.json
+04/27/2015 @ 5:08:02PM - copying ./templates/JSON/taskList.json to: ../users/admin/JSON/taskList.json
+04/27/2015 @ 5:08:02PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/admin/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 5:25:11PM - Creating account: dean
+04/27/2015 @ 5:25:11PM - creating directory: ../users/dean
+04/27/2015 @ 5:25:11PM - copying ./templates/index.html to: ../users/dean/index.html
+04/27/2015 @ 5:25:11PM - copying ./templates/functions.php to: ../users/dean/functions.php
+04/27/2015 @ 5:25:11PM - copying ./templates/upload.php to: ../users/dean/upload.php
+04/27/2015 @ 5:25:11PM - creating directory: ../users/dean/uploads
+04/27/2015 @ 5:25:11PM - creating directory: ../users/dean/JSON
+04/27/2015 @ 5:25:11PM - copying ./templates/JSON/settings.json to: ../users/dean/JSON/settings.json
+04/27/2015 @ 5:25:11PM - copying ./templates/JSON/songs.json to: ../users/dean/JSON/songs.json
+04/27/2015 @ 5:25:11PM - copying ./templates/JSON/taskList.json to: ../users/dean/JSON/taskList.json
+04/27/2015 @ 5:25:11PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dean/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 5:29:27PM - Creating account: garthretallack
+04/27/2015 @ 5:29:27PM - creating directory: ../users/garthretallack
+04/27/2015 @ 5:29:27PM - copying ./templates/index.html to: ../users/garthretallack/index.html
+04/27/2015 @ 5:29:27PM - copying ./templates/functions.php to: ../users/garthretallack/functions.php
+04/27/2015 @ 5:29:27PM - copying ./templates/upload.php to: ../users/garthretallack/upload.php
+04/27/2015 @ 5:29:27PM - creating directory: ../users/garthretallack/uploads
+04/27/2015 @ 5:29:27PM - creating directory: ../users/garthretallack/JSON
+04/27/2015 @ 5:29:27PM - copying ./templates/JSON/settings.json to: ../users/garthretallack/JSON/settings.json
+04/27/2015 @ 5:29:27PM - copying ./templates/JSON/songs.json to: ../users/garthretallack/JSON/songs.json
+04/27/2015 @ 5:29:27PM - copying ./templates/JSON/taskList.json to: ../users/garthretallack/JSON/taskList.json
+04/27/2015 @ 5:29:27PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/garthretallack/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 5:43:42PM - Creating account: dave
+04/27/2015 @ 5:43:42PM - creating directory: ../users/dave
+04/27/2015 @ 5:43:42PM - copying ./templates/index.html to: ../users/dave/index.html
+04/27/2015 @ 5:43:42PM - copying ./templates/functions.php to: ../users/dave/functions.php
+04/27/2015 @ 5:43:42PM - copying ./templates/upload.php to: ../users/dave/upload.php
+04/27/2015 @ 5:43:42PM - creating directory: ../users/dave/uploads
+04/27/2015 @ 5:43:42PM - creating directory: ../users/dave/JSON
+04/27/2015 @ 5:43:42PM - copying ./templates/JSON/settings.json to: ../users/dave/JSON/settings.json
+04/27/2015 @ 5:43:42PM - copying ./templates/JSON/songs.json to: ../users/dave/JSON/songs.json
+04/27/2015 @ 5:43:42PM - copying ./templates/JSON/taskList.json to: ../users/dave/JSON/taskList.json
+04/27/2015 @ 5:43:42PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dave/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 5:52:22PM - Creating account: presentation
+04/27/2015 @ 5:52:22PM - creating directory: ../users/presentation
+04/27/2015 @ 5:52:22PM - copying ./templates/index.html to: ../users/presentation/index.html
+04/27/2015 @ 5:52:22PM - copying ./templates/functions.php to: ../users/presentation/functions.php
+04/27/2015 @ 5:52:22PM - copying ./templates/upload.php to: ../users/presentation/upload.php
+04/27/2015 @ 5:52:22PM - creating directory: ../users/presentation/uploads
+04/27/2015 @ 5:52:22PM - creating directory: ../users/presentation/JSON
+04/27/2015 @ 5:52:22PM - copying ./templates/JSON/settings.json to: ../users/presentation/JSON/settings.json
+04/27/2015 @ 5:52:22PM - copying ./templates/JSON/songs.json to: ../users/presentation/JSON/songs.json
+04/27/2015 @ 5:52:22PM - copying ./templates/JSON/taskList.json to: ../users/presentation/JSON/taskList.json
+04/27/2015 @ 5:52:22PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/presentation/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 6:06:37PM - Creating account: 8
+04/27/2015 @ 6:06:37PM - creating directory: ../users/8
+04/27/2015 @ 6:06:37PM - copying ./templates/index.html to: ../users/8/index.html
+04/27/2015 @ 6:06:37PM - copying ./templates/functions.php to: ../users/8/functions.php
+04/27/2015 @ 6:06:37PM - copying ./templates/upload.php to: ../users/8/upload.php
+04/27/2015 @ 6:06:37PM - creating directory: ../users/8/uploads
+04/27/2015 @ 6:06:37PM - creating directory: ../users/8/JSON
+04/27/2015 @ 6:06:37PM - copying ./templates/JSON/settings.json to: ../users/8/JSON/settings.json
+04/27/2015 @ 6:06:37PM - copying ./templates/JSON/songs.json to: ../users/8/JSON/songs.json
+04/27/2015 @ 6:06:37PM - copying ./templates/JSON/taskList.json to: ../users/8/JSON/taskList.json
+04/27/2015 @ 6:06:37PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/8/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 7:21:11PM - Creating account: test321
+04/27/2015 @ 7:21:11PM - creating directory: ../users/test321
+04/27/2015 @ 7:21:11PM - copying ./templates/index.html to: ../users/test321/index.html
+04/27/2015 @ 7:21:11PM - copying ./templates/functions.php to: ../users/test321/functions.php
+04/27/2015 @ 7:21:11PM - copying ./templates/upload.php to: ../users/test321/upload.php
+04/27/2015 @ 7:21:11PM - creating directory: ../users/test321/uploads
+04/27/2015 @ 7:21:11PM - creating directory: ../users/test321/JSON
+04/27/2015 @ 7:21:11PM - copying ./templates/JSON/settings.json to: ../users/test321/JSON/settings.json
+04/27/2015 @ 7:21:11PM - copying ./templates/JSON/songs.json to: ../users/test321/JSON/songs.json
+04/27/2015 @ 7:21:11PM - copying ./templates/JSON/taskList.json to: ../users/test321/JSON/taskList.json
+04/27/2015 @ 7:21:11PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test321/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 9:33:31PM - Creating account: 10
+04/27/2015 @ 9:33:31PM - creating directory: ../users/10
+04/27/2015 @ 9:33:31PM - copying ./templates/index.html to: ../users/10/index.html
+04/27/2015 @ 9:33:31PM - copying ./templates/functions.php to: ../users/10/functions.php
+04/27/2015 @ 9:33:31PM - copying ./templates/upload.php to: ../users/10/upload.php
+04/27/2015 @ 9:33:31PM - creating directory: ../users/10/uploads
+04/27/2015 @ 9:33:31PM - creating directory: ../users/10/JSON
+04/27/2015 @ 9:33:31PM - copying ./templates/JSON/settings.json to: ../users/10/JSON/settings.json
+04/27/2015 @ 9:33:31PM - copying ./templates/JSON/songs.json to: ../users/10/JSON/songs.json
+04/27/2015 @ 9:33:31PM - copying ./templates/JSON/taskList.json to: ../users/10/JSON/taskList.json
+04/27/2015 @ 9:33:31PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/10/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 9:35:49PM - Creating account: 23
+04/27/2015 @ 9:35:49PM - creating directory: ../users/23
+04/27/2015 @ 9:35:49PM - copying ./templates/index.html to: ../users/23/index.html
+04/27/2015 @ 9:35:49PM - copying ./templates/functions.php to: ../users/23/functions.php
+04/27/2015 @ 9:35:49PM - copying ./templates/upload.php to: ../users/23/upload.php
+04/27/2015 @ 9:35:49PM - creating directory: ../users/23/uploads
+04/27/2015 @ 9:35:49PM - creating directory: ../users/23/JSON
+04/27/2015 @ 9:35:49PM - copying ./templates/JSON/settings.json to: ../users/23/JSON/settings.json
+04/27/2015 @ 9:35:49PM - copying ./templates/JSON/songs.json to: ../users/23/JSON/songs.json
+04/27/2015 @ 9:35:49PM - copying ./templates/JSON/taskList.json to: ../users/23/JSON/taskList.json
+04/27/2015 @ 9:35:49PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/23/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 9:44:20PM - Creating account: test2
+04/27/2015 @ 9:44:20PM - creating directory: ../users/test2
+04/27/2015 @ 9:44:20PM - copying ./templates/index.html to: ../users/test2/index.html
+04/27/2015 @ 9:44:20PM - copying ./templates/functions.php to: ../users/test2/functions.php
+04/27/2015 @ 9:44:20PM - copying ./templates/upload.php to: ../users/test2/upload.php
+04/27/2015 @ 9:44:20PM - creating directory: ../users/test2/uploads
+04/27/2015 @ 9:44:20PM - creating directory: ../users/test2/JSON
+04/27/2015 @ 9:44:20PM - copying ./templates/JSON/settings.json to: ../users/test2/JSON/settings.json
+04/27/2015 @ 9:44:20PM - copying ./templates/JSON/songs.json to: ../users/test2/JSON/songs.json
+04/27/2015 @ 9:44:20PM - copying ./templates/JSON/taskList.json to: ../users/test2/JSON/taskList.json
+04/27/2015 @ 9:44:20PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test2/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 9:56:57PM - Creating account: test3
+04/27/2015 @ 9:56:57PM - creating directory: ../users/test3
+04/27/2015 @ 9:56:57PM - copying ./templates/index.html to: ../users/test3/index.html
+04/27/2015 @ 9:56:57PM - copying ./templates/functions.php to: ../users/test3/functions.php
+04/27/2015 @ 9:56:57PM - copying ./templates/upload.php to: ../users/test3/upload.php
+04/27/2015 @ 9:56:57PM - creating directory: ../users/test3/uploads
+04/27/2015 @ 9:56:57PM - creating directory: ../users/test3/JSON
+04/27/2015 @ 9:56:57PM - copying ./templates/JSON/settings.json to: ../users/test3/JSON/settings.json
+04/27/2015 @ 9:56:57PM - copying ./templates/JSON/songs.json to: ../users/test3/JSON/songs.json
+04/27/2015 @ 9:56:57PM - copying ./templates/JSON/taskList.json to: ../users/test3/JSON/taskList.json
+04/27/2015 @ 9:56:57PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test3/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 10:03:40PM - Creating account: 9
+04/27/2015 @ 10:03:40PM - creating directory: ../users/9
+04/27/2015 @ 10:03:40PM - copying ./templates/index.html to: ../users/9/index.html
+04/27/2015 @ 10:03:40PM - copying ./templates/functions.php to: ../users/9/functions.php
+04/27/2015 @ 10:03:40PM - copying ./templates/upload.php to: ../users/9/upload.php
+04/27/2015 @ 10:03:40PM - creating directory: ../users/9/uploads
+04/27/2015 @ 10:03:40PM - creating directory: ../users/9/JSON
+04/27/2015 @ 10:03:40PM - copying ./templates/JSON/settings.json to: ../users/9/JSON/settings.json
+04/27/2015 @ 10:03:40PM - copying ./templates/JSON/songs.json to: ../users/9/JSON/songs.json
+04/27/2015 @ 10:03:40PM - copying ./templates/JSON/taskList.json to: ../users/9/JSON/taskList.json
+04/27/2015 @ 10:03:40PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/9/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 10:04:02PM - Creating account: 12
+04/27/2015 @ 10:04:02PM - creating directory: ../users/12
+04/27/2015 @ 10:04:02PM - copying ./templates/index.html to: ../users/12/index.html
+04/27/2015 @ 10:04:02PM - copying ./templates/functions.php to: ../users/12/functions.php
+04/27/2015 @ 10:04:02PM - copying ./templates/upload.php to: ../users/12/upload.php
+04/27/2015 @ 10:04:02PM - creating directory: ../users/12/uploads
+04/27/2015 @ 10:04:02PM - creating directory: ../users/12/JSON
+04/27/2015 @ 10:04:02PM - copying ./templates/JSON/settings.json to: ../users/12/JSON/settings.json
+04/27/2015 @ 10:04:02PM - copying ./templates/JSON/songs.json to: ../users/12/JSON/songs.json
+04/27/2015 @ 10:04:02PM - copying ./templates/JSON/taskList.json to: ../users/12/JSON/taskList.json
+04/27/2015 @ 10:04:02PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/12/JSON/calendarBuildParameters.json
+
+
+04/27/2015 @ 10:04:09PM - Creating account: test123
+04/27/2015 @ 10:04:09PM - creating directory: ../users/test123
+04/27/2015 @ 10:04:09PM - copying ./templates/index.html to: ../users/test123/index.html
+04/27/2015 @ 10:04:09PM - copying ./templates/functions.php to: ../users/test123/functions.php
+04/27/2015 @ 10:04:09PM - copying ./templates/upload.php to: ../users/test123/upload.php
+04/27/2015 @ 10:04:09PM - creating directory: ../users/test123/uploads
+04/27/2015 @ 10:04:09PM - creating directory: ../users/test123/JSON
+04/27/2015 @ 10:04:09PM - copying ./templates/JSON/settings.json to: ../users/test123/JSON/settings.json
+04/27/2015 @ 10:04:09PM - copying ./templates/JSON/songs.json to: ../users/test123/JSON/songs.json
+04/27/2015 @ 10:04:09PM - copying ./templates/JSON/taskList.json to: ../users/test123/JSON/taskList.json
+04/27/2015 @ 10:04:09PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test123/JSON/calendarBuildParameters.json
+
+
+04/28/2015 @ 9:43:04AM - Creating account: presentation
+04/28/2015 @ 9:43:04AM - creating directory: ../users/presentation
+04/28/2015 @ 9:43:04AM - copying ./templates/index.html to: ../users/presentation/index.html
+04/28/2015 @ 9:43:04AM - copying ./templates/functions.php to: ../users/presentation/functions.php
+04/28/2015 @ 9:43:04AM - copying ./templates/upload.php to: ../users/presentation/upload.php
+04/28/2015 @ 9:43:04AM - creating directory: ../users/presentation/uploads
+04/28/2015 @ 9:43:04AM - creating directory: ../users/presentation/JSON
+04/28/2015 @ 9:43:04AM - copying ./templates/JSON/settings.json to: ../users/presentation/JSON/settings.json
+04/28/2015 @ 9:43:04AM - copying ./templates/JSON/songs.json to: ../users/presentation/JSON/songs.json
+04/28/2015 @ 9:43:04AM - copying ./templates/JSON/taskList.json to: ../users/presentation/JSON/taskList.json
+04/28/2015 @ 9:43:04AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/presentation/JSON/calendarBuildParameters.json
+
+
+04/28/2015 @ 12:21:00PM - Creating account: dave2
+04/28/2015 @ 12:21:00PM - creating directory: ../users/dave2
+04/28/2015 @ 12:21:00PM - copying ./templates/index.html to: ../users/dave2/index.html
+04/28/2015 @ 12:21:00PM - copying ./templates/functions.php to: ../users/dave2/functions.php
+04/28/2015 @ 12:21:00PM - copying ./templates/upload.php to: ../users/dave2/upload.php
+04/28/2015 @ 12:21:00PM - creating directory: ../users/dave2/uploads
+04/28/2015 @ 12:21:00PM - creating directory: ../users/dave2/JSON
+04/28/2015 @ 12:21:00PM - copying ./templates/JSON/settings.json to: ../users/dave2/JSON/settings.json
+04/28/2015 @ 12:21:00PM - copying ./templates/JSON/songs.json to: ../users/dave2/JSON/songs.json
+04/28/2015 @ 12:21:00PM - copying ./templates/JSON/taskList.json to: ../users/dave2/JSON/taskList.json
+04/28/2015 @ 12:21:00PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dave2/JSON/calendarBuildParameters.json
+
+
+04/28/2015 @ 1:36:32PM - Creating account: demo
+04/28/2015 @ 1:36:32PM - creating directory: ../users/demo
+04/28/2015 @ 1:36:32PM - copying ./templates/index.html to: ../users/demo/index.html
+04/28/2015 @ 1:36:32PM - copying ./templates/functions.php to: ../users/demo/functions.php
+04/28/2015 @ 1:36:32PM - copying ./templates/upload.php to: ../users/demo/upload.php
+04/28/2015 @ 1:36:32PM - creating directory: ../users/demo/uploads
+04/28/2015 @ 1:36:32PM - creating directory: ../users/demo/JSON
+04/28/2015 @ 1:36:32PM - copying ./templates/JSON/settings.json to: ../users/demo/JSON/settings.json
+04/28/2015 @ 1:36:32PM - copying ./templates/JSON/songs.json to: ../users/demo/JSON/songs.json
+04/28/2015 @ 1:36:32PM - copying ./templates/JSON/taskList.json to: ../users/demo/JSON/taskList.json
+04/28/2015 @ 1:36:32PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/demo/JSON/calendarBuildParameters.json
+
+
+04/28/2015 @ 1:37:45PM - Creating account: -1
+04/28/2015 @ 1:37:45PM - creating directory: ../users/-1
+04/28/2015 @ 1:37:45PM - copying ./templates/index.html to: ../users/-1/index.html
+04/28/2015 @ 1:37:45PM - copying ./templates/functions.php to: ../users/-1/functions.php
+04/28/2015 @ 1:37:45PM - copying ./templates/upload.php to: ../users/-1/upload.php
+04/28/2015 @ 1:37:45PM - creating directory: ../users/-1/uploads
+04/28/2015 @ 1:37:45PM - creating directory: ../users/-1/JSON
+04/28/2015 @ 1:37:45PM - copying ./templates/JSON/settings.json to: ../users/-1/JSON/settings.json
+04/28/2015 @ 1:37:45PM - copying ./templates/JSON/songs.json to: ../users/-1/JSON/songs.json
+04/28/2015 @ 1:37:45PM - copying ./templates/JSON/taskList.json to: ../users/-1/JSON/taskList.json
+04/28/2015 @ 1:37:45PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/-1/JSON/calendarBuildParameters.json
+
+
+04/28/2015 @ 9:11:51PM - Creating account: KevinSMASH!
+04/28/2015 @ 9:11:51PM - creating directory: ../users/KevinSMASH!
+04/28/2015 @ 9:11:51PM - copying ./templates/index.html to: ../users/KevinSMASH!/index.html
+04/28/2015 @ 9:11:51PM - copying ./templates/functions.php to: ../users/KevinSMASH!/functions.php
+04/28/2015 @ 9:11:51PM - copying ./templates/upload.php to: ../users/KevinSMASH!/upload.php
+04/28/2015 @ 9:11:51PM - creating directory: ../users/KevinSMASH!/uploads
+04/28/2015 @ 9:11:51PM - creating directory: ../users/KevinSMASH!/JSON
+04/28/2015 @ 9:11:51PM - copying ./templates/JSON/settings.json to: ../users/KevinSMASH!/JSON/settings.json
+04/28/2015 @ 9:11:51PM - copying ./templates/JSON/songs.json to: ../users/KevinSMASH!/JSON/songs.json
+04/28/2015 @ 9:11:51PM - copying ./templates/JSON/taskList.json to: ../users/KevinSMASH!/JSON/taskList.json
+04/28/2015 @ 9:11:51PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/KevinSMASH!/JSON/calendarBuildParameters.json
+
+
+04/29/2015 @ 9:44:33PM - Creating account: sup
+04/29/2015 @ 9:44:33PM - creating directory: ../users/sup
+04/29/2015 @ 9:44:33PM - copying ./templates/index.html to: ../users/sup/index.html
+04/29/2015 @ 9:44:33PM - copying ./templates/functions.php to: ../users/sup/functions.php
+04/29/2015 @ 9:44:33PM - copying ./templates/upload.php to: ../users/sup/upload.php
+04/29/2015 @ 9:44:33PM - creating directory: ../users/sup/uploads
+04/29/2015 @ 9:44:33PM - creating directory: ../users/sup/JSON
+04/29/2015 @ 9:44:33PM - copying ./templates/JSON/settings.json to: ../users/sup/JSON/settings.json
+04/29/2015 @ 9:44:33PM - copying ./templates/JSON/songs.json to: ../users/sup/JSON/songs.json
+04/29/2015 @ 9:44:33PM - copying ./templates/JSON/taskList.json to: ../users/sup/JSON/taskList.json
+04/29/2015 @ 9:44:33PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/sup/JSON/calendarBuildParameters.json
+
+
+04/30/2015 @ 1:13:21PM - Creating account: loggylog
+04/30/2015 @ 1:13:21PM - creating directory: ../users/loggylog
+04/30/2015 @ 1:13:21PM - copying ./templates/index.html to: ../users/loggylog/index.html
+04/30/2015 @ 1:13:21PM - copying ./templates/functions.php to: ../users/loggylog/functions.php
+04/30/2015 @ 1:13:21PM - copying ./templates/upload.php to: ../users/loggylog/upload.php
+04/30/2015 @ 1:13:21PM - creating directory: ../users/loggylog/uploads
+04/30/2015 @ 1:13:21PM - creating directory: ../users/loggylog/JSON
+04/30/2015 @ 1:13:21PM - copying ./templates/JSON/settings.json to: ../users/loggylog/JSON/settings.json
+04/30/2015 @ 1:13:21PM - copying ./templates/JSON/songs.json to: ../users/loggylog/JSON/songs.json
+04/30/2015 @ 1:13:21PM - copying ./templates/JSON/taskList.json to: ../users/loggylog/JSON/taskList.json
+04/30/2015 @ 1:13:21PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/loggylog/JSON/calendarBuildParameters.json
+
+
+04/30/2015 @ 6:15:01PM - Creating account: dave\\lordan
+04/30/2015 @ 6:15:01PM - creating directory: ../users/dave\\lordan
+04/30/2015 @ 6:15:01PM - copying ./templates/index.html to: ../users/dave\\lordan/index.html
+04/30/2015 @ 6:15:01PM - copying ./templates/functions.php to: ../users/dave\\lordan/functions.php
+04/30/2015 @ 6:15:01PM - copying ./templates/upload.php to: ../users/dave\\lordan/upload.php
+04/30/2015 @ 6:15:01PM - creating directory: ../users/dave\\lordan/uploads
+04/30/2015 @ 6:15:01PM - creating directory: ../users/dave\\lordan/JSON
+04/30/2015 @ 6:15:01PM - copying ./templates/JSON/settings.json to: ../users/dave\\lordan/JSON/settings.json
+04/30/2015 @ 6:15:01PM - copying ./templates/JSON/songs.json to: ../users/dave\\lordan/JSON/songs.json
+04/30/2015 @ 6:15:01PM - copying ./templates/JSON/taskList.json to: ../users/dave\\lordan/JSON/taskList.json
+04/30/2015 @ 6:15:01PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dave\\lordan/JSON/calendarBuildParameters.json
+
+
+04/30/2015 @ 6:16:25PM - Creating account: dave.lordan
+04/30/2015 @ 6:16:25PM - creating directory: ../users/dave.lordan
+04/30/2015 @ 6:16:25PM - copying ./templates/index.html to: ../users/dave.lordan/index.html
+04/30/2015 @ 6:16:25PM - copying ./templates/functions.php to: ../users/dave.lordan/functions.php
+04/30/2015 @ 6:16:25PM - copying ./templates/upload.php to: ../users/dave.lordan/upload.php
+04/30/2015 @ 6:16:25PM - creating directory: ../users/dave.lordan/uploads
+04/30/2015 @ 6:16:25PM - creating directory: ../users/dave.lordan/JSON
+04/30/2015 @ 6:16:25PM - copying ./templates/JSON/settings.json to: ../users/dave.lordan/JSON/settings.json
+04/30/2015 @ 6:16:25PM - copying ./templates/JSON/songs.json to: ../users/dave.lordan/JSON/songs.json
+04/30/2015 @ 6:16:25PM - copying ./templates/JSON/taskList.json to: ../users/dave.lordan/JSON/taskList.json
+04/30/2015 @ 6:16:25PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dave.lordan/JSON/calendarBuildParameters.json
+
+
+04/30/2015 @ 8:17:17PM - Creating account: dave lordan
+04/30/2015 @ 8:17:17PM - creating directory: ../users/dave lordan
+04/30/2015 @ 8:17:17PM - copying ./templates/index.html to: ../users/dave lordan/index.html
+04/30/2015 @ 8:17:17PM - copying ./templates/functions.php to: ../users/dave lordan/functions.php
+04/30/2015 @ 8:17:17PM - copying ./templates/upload.php to: ../users/dave lordan/upload.php
+04/30/2015 @ 8:17:17PM - creating directory: ../users/dave lordan/uploads
+04/30/2015 @ 8:17:17PM - creating directory: ../users/dave lordan/JSON
+04/30/2015 @ 8:17:17PM - copying ./templates/JSON/settings.json to: ../users/dave lordan/JSON/settings.json
+04/30/2015 @ 8:17:17PM - copying ./templates/JSON/songs.json to: ../users/dave lordan/JSON/songs.json
+04/30/2015 @ 8:17:17PM - copying ./templates/JSON/taskList.json to: ../users/dave lordan/JSON/taskList.json
+04/30/2015 @ 8:17:17PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/dave lordan/JSON/calendarBuildParameters.json
+
+
+04/30/2015 @ 8:39:06PM - Creating account: 4321
+04/30/2015 @ 8:39:06PM - creating directory: ../users/4321
+04/30/2015 @ 8:39:06PM - copying ./templates/index.html to: ../users/4321/index.html
+04/30/2015 @ 8:39:06PM - copying ./templates/functions.php to: ../users/4321/functions.php
+04/30/2015 @ 8:39:06PM - copying ./templates/upload.php to: ../users/4321/upload.php
+04/30/2015 @ 8:39:06PM - creating directory: ../users/4321/uploads
+04/30/2015 @ 8:39:06PM - creating directory: ../users/4321/JSON
+04/30/2015 @ 8:39:06PM - copying ./templates/JSON/settings.json to: ../users/4321/JSON/settings.json
+04/30/2015 @ 8:39:06PM - copying ./templates/JSON/songs.json to: ../users/4321/JSON/songs.json
+04/30/2015 @ 8:39:06PM - copying ./templates/JSON/taskList.json to: ../users/4321/JSON/taskList.json
+04/30/2015 @ 8:39:06PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/4321/JSON/calendarBuildParameters.json
+
+
+04/30/2015 @ 8:41:35PM - Creating account: 1
+04/30/2015 @ 8:41:35PM - creating directory: ../users/1
+04/30/2015 @ 8:41:35PM - copying ./templates/index.html to: ../users/1/index.html
+04/30/2015 @ 8:41:35PM - copying ./templates/functions.php to: ../users/1/functions.php
+04/30/2015 @ 8:41:35PM - copying ./templates/upload.php to: ../users/1/upload.php
+04/30/2015 @ 8:41:35PM - creating directory: ../users/1/uploads
+04/30/2015 @ 8:41:35PM - creating directory: ../users/1/JSON
+04/30/2015 @ 8:41:35PM - copying ./templates/JSON/settings.json to: ../users/1/JSON/settings.json
+04/30/2015 @ 8:41:35PM - copying ./templates/JSON/songs.json to: ../users/1/JSON/songs.json
+04/30/2015 @ 8:41:35PM - copying ./templates/JSON/taskList.json to: ../users/1/JSON/taskList.json
+04/30/2015 @ 8:41:35PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/1/JSON/calendarBuildParameters.json
+
+
+04/30/2015 @ 8:45:22PM - Creating account: daveTest
+04/30/2015 @ 8:45:22PM - creating directory: ../users/daveTest
+04/30/2015 @ 8:45:22PM - copying ./templates/index.html to: ../users/daveTest/index.html
+04/30/2015 @ 8:45:22PM - copying ./templates/functions.php to: ../users/daveTest/functions.php
+04/30/2015 @ 8:45:22PM - copying ./templates/upload.php to: ../users/daveTest/upload.php
+04/30/2015 @ 8:45:22PM - creating directory: ../users/daveTest/uploads
+04/30/2015 @ 8:45:22PM - creating directory: ../users/daveTest/JSON
+04/30/2015 @ 8:45:22PM - copying ./templates/JSON/settings.json to: ../users/daveTest/JSON/settings.json
+04/30/2015 @ 8:45:22PM - copying ./templates/JSON/songs.json to: ../users/daveTest/JSON/songs.json
+04/30/2015 @ 8:45:22PM - copying ./templates/JSON/taskList.json to: ../users/daveTest/JSON/taskList.json
+04/30/2015 @ 8:45:22PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/daveTest/JSON/calendarBuildParameters.json
+
+
+05/01/2015 @ 4:09:32PM - Creating account: test123
+05/01/2015 @ 4:09:32PM - creating directory: ../users/test123
+05/01/2015 @ 4:09:32PM - copying ./templates/index.html to: ../users/test123/index.html
+05/01/2015 @ 4:09:32PM - copying ./templates/functions.php to: ../users/test123/functions.php
+05/01/2015 @ 4:09:32PM - copying ./templates/upload.php to: ../users/test123/upload.php
+05/01/2015 @ 4:09:32PM - creating directory: ../users/test123/uploads
+05/01/2015 @ 4:09:32PM - creating directory: ../users/test123/JSON
+05/01/2015 @ 4:09:32PM - copying ./templates/JSON/settings.json to: ../users/test123/JSON/settings.json
+05/01/2015 @ 4:09:32PM - copying ./templates/JSON/songs.json to: ../users/test123/JSON/songs.json
+05/01/2015 @ 4:09:32PM - copying ./templates/JSON/taskList.json to: ../users/test123/JSON/taskList.json
+05/01/2015 @ 4:09:32PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/test123/JSON/calendarBuildParameters.json
+
+
+05/01/2015 @ 5:26:46PM - Creating account: nuds
+05/01/2015 @ 5:26:46PM - creating directory: ../users/nuds
+05/01/2015 @ 5:26:46PM - copying ./templates/index.html to: ../users/nuds/index.html
+05/01/2015 @ 5:26:46PM - copying ./templates/functions.php to: ../users/nuds/functions.php
+05/01/2015 @ 5:26:46PM - copying ./templates/upload.php to: ../users/nuds/upload.php
+05/01/2015 @ 5:26:46PM - creating directory: ../users/nuds/uploads
+05/01/2015 @ 5:26:46PM - creating directory: ../users/nuds/JSON
+05/01/2015 @ 5:26:46PM - copying ./templates/JSON/settings.json to: ../users/nuds/JSON/settings.json
+05/01/2015 @ 5:26:46PM - copying ./templates/JSON/songs.json to: ../users/nuds/JSON/songs.json
+05/01/2015 @ 5:26:46PM - copying ./templates/JSON/taskList.json to: ../users/nuds/JSON/taskList.json
+05/01/2015 @ 5:26:46PM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/nuds/JSON/calendarBuildParameters.json
+
+
+05/02/2015 @ 12:52:00AM - Creating account: badalata
+05/02/2015 @ 12:52:00AM - creating directory: ../users/badalata
+05/02/2015 @ 12:52:00AM - copying ./templates/index.html to: ../users/badalata/index.html
+05/02/2015 @ 12:52:00AM - copying ./templates/functions.php to: ../users/badalata/functions.php
+05/02/2015 @ 12:52:00AM - copying ./templates/upload.php to: ../users/badalata/upload.php
+05/02/2015 @ 12:52:00AM - creating directory: ../users/badalata/uploads
+05/02/2015 @ 12:52:00AM - creating directory: ../users/badalata/JSON
+05/02/2015 @ 12:52:00AM - copying ./templates/JSON/settings.json to: ../users/badalata/JSON/settings.json
+05/02/2015 @ 12:52:00AM - copying ./templates/JSON/songs.json to: ../users/badalata/JSON/songs.json
+05/02/2015 @ 12:52:00AM - copying ./templates/JSON/taskList.json to: ../users/badalata/JSON/taskList.json
+05/02/2015 @ 12:52:00AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/badalata/JSON/calendarBuildParameters.json
+
+
+05/02/2015 @ 11:00:36AM - Creating account: 12
+05/02/2015 @ 11:00:36AM - creating directory: ../users/12
+05/02/2015 @ 11:00:36AM - copying ./templates/index.html to: ../users/12/index.html
+05/02/2015 @ 11:00:36AM - copying ./templates/functions.php to: ../users/12/functions.php
+05/02/2015 @ 11:00:36AM - copying ./templates/upload.php to: ../users/12/upload.php
+05/02/2015 @ 11:00:36AM - creating directory: ../users/12/uploads
+05/02/2015 @ 11:00:36AM - creating directory: ../users/12/JSON
+05/02/2015 @ 11:00:37AM - copying ./templates/JSON/settings.json to: ../users/12/JSON/settings.json
+05/02/2015 @ 11:00:37AM - copying ./templates/JSON/songs.json to: ../users/12/JSON/songs.json
+05/02/2015 @ 11:00:37AM - copying ./templates/JSON/taskList.json to: ../users/12/JSON/taskList.json
+05/02/2015 @ 11:00:37AM - copying ./templates/JSON/calendarBuildParameters.json to: ../users/12/JSON/calendarBuildParameters.json

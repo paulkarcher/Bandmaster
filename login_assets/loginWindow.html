@@ -1,0 +1,32 @@
+<div id="login">
+  <script>
+    $(document).ready(function() {
+    $(document).keydown(function(e) {
+
+      if (e.which === 13) {
+        var userName = document.getElementById('userName');
+        var password = document.getElementById('userPassword');
+        login(userName,password);
+      }
+    });
+  });
+  </script>
+
+  <div class="form-login">
+    <h4 id='windowMessage'>Please enter your username and password</h4>
+    <input type="text" id="userName" class="form-control input-sm chat-input" placeholder="username" name="username" id="login_username" required autofocus/>
+    </br>
+    <input type="password" id="userPassword" class="form-control input-sm chat-input" placeholder="password" name="password" id="login_password" required/>
+    </br>
+
+    <div class="wrapper">
+      <span class="group-btn">     
+        <button type='button' onclick='showWelcome()' class="btn btn-warning btn-md" value="login">go back</button>
+        <button onclick="login(getElementById('userName'), getElementById('userPassword'))" class="btn btn-primary btn-md" value="login">login
+          <span class="glyphicon glyphicon-log-in"></span>
+        </button>
+      </span>
+    </div>
+  </div>  
+   
+</form>
