@@ -6,7 +6,7 @@
       authors: David Lordan, Paul Karcher, Dean Marsinelli, the fullcalendar team
       last updated: 5/1/2015
 
-      Handles a userame to determine which json data to be editing as
+      Handles a username to determine which json data to be editing as
       well as a unique event ID to determine which json entry to delete
       from that json data.
 */
